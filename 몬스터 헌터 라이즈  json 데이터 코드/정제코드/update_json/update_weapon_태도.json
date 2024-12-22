@@ -1,0 +1,2386 @@
+[
+    {
+        "name":"피코-카트리스세이프",
+        "attack":"320",
+        "critical":"20",
+        "slot":"2 1 1백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"육화수빙환[서설]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "option":"얼음 48",
+        "rare":"10"
+    },
+    {
+        "name":"파사의태도 이치몬지[1]",
+        "attack":"310",
+        "critical":"10",
+        "slot":"2 2 2백룡 1",
+        "option":"불 24",
+        "rare":"10"
+    },
+    {
+        "name":"칵투스힘멜[1]",
+        "attack":"300",
+        "critical":"20",
+        "slot":"4 1 1백룡 3",
+        "option":"불 43",
+        "rare":"10"
+    },
+    {
+        "name":"빙륜도 루아셰이아",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"얼음 31",
+        "rare":"10"
+    },
+    {
+        "name":"진비룡도[취연]+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"독 48",
+        "rare":"10"
+    },
+    {
+        "name":"로젠힘멜[1]",
+        "attack":"310",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "option":"독 23",
+        "rare":"10"
+    },
+    {
+        "name":"진비룡도[비]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "option":"불 55",
+        "rare":"10"
+    },
+    {
+        "name":"골단도[카게타치]+",
+        "attack":"340",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"반인 알나지트",
+        "attack":"320",
+        "critical":"10",
+        "slot":"1 - -백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"흑도[종의형][5]",
+        "attack":"320",
+        "critical":"5",
+        "slot":"- - -백룡 1",
+        "option":"방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"만염도 로긴소브레+",
+        "attack":"340",
+        "critical":"-15",
+        "slot":"2 1 -백룡 2",
+        "option":"불 30",
+        "rare":"10"
+    },
+    {
+        "name":"호아인 샤리드파르",
+        "attack":"300",
+        "critical":"35",
+        "slot":"1 1 -백룡 1",
+        "option":"얼음 39",
+        "rare":"10"
+    },
+    {
+        "name":"포이즌디키라",
+        "attack":"330",
+        "critical":"0",
+        "slot":"1 1 -백룡 1",
+        "option":"독 60",
+        "rare":"10"
+    },
+    {
+        "name":"카오스or로",
+        "attack":"330",
+        "critical":"-30\/15",
+        "slot":"3 1 -백룡 2",
+        "option":"용 42",
+        "rare":"10"
+    },
+    {
+        "name":"혼박곤[부지화][1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"마비 26",
+        "rare":"10"
+    },
+    {
+        "name":"비뢰섬도[오니우치]+",
+        "attack":"310",
+        "critical":"15",
+        "slot":"2 2 -백룡 2",
+        "option":"번개 42",
+        "rare":"10"
+    },
+    {
+        "name":"발토스-가라+",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"3 1 -백룡 2",
+        "option":"물 29",
+        "rare":"10"
+    },
+    {
+        "name":"가우시도[녹왕각]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 1 1백룡 2",
+        "option":"방어+40",
+        "rare":"10"
+    },
+    {
+        "name":"몽염도 멜로포+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 2 -백룡 2",
+        "option":"수면 28",
+        "rare":"10"
+    },
+    {
+        "name":"빙령 엘사르카",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 - -백룡 3",
+        "option":"얼음 25",
+        "rare":"10"
+    },
+    {
+        "name":"극광설도 스노포",
+        "attack":"310",
+        "critical":"0",
+        "slot":"1 1 -백룡 3",
+        "option":"얼음 69",
+        "rare":"10"
+    },
+    {
+        "name":"버서팔로스+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 1 1백룡 3",
+        "option":"물 46",
+        "rare":"10"
+    },
+    {
+        "name":"거괴도 고르티탄[3]",
+        "attack":"350",
+        "critical":"0",
+        "slot":"4 2 1백룡 3",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"청웅장필[해수희화]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 2 -백룡 1",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"대풍겸도 볼더스",
+        "attack":"310",
+        "critical":"25",
+        "slot":"3 2 -백룡 1",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"흉도[최화우]",
+        "attack":"350",
+        "critical":"-25",
+        "slot":"- - -백룡 3",
+        "option":"물 43",
+        "rare":"10"
+    },
+    {
+        "name":"다크인더다크+[1]",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"1 1 1백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"다이묘커터",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 - -백룡 3",
+        "option":"물 28방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"히키사키",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"물 18",
+        "rare":"10"
+    },
+    {
+        "name":"원독의 대겸위태도",
+        "attack":"330",
+        "critical":"-10",
+        "slot":"- - -백룡 2",
+        "option":"독 52",
+        "rare":"10"
+    },
+    {
+        "name":"개원귀도 아가라[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 2 -백룡 2",
+        "option":"폭파 38",
+        "rare":"10"
+    },
+    {
+        "name":"각은의 참도",
+        "attack":"310",
+        "critical":"0",
+        "slot":"4 4 4백룡 3",
+        "option":"용 49",
+        "rare":"10"
+    },
+    {
+        "name":"스틸of저지",
+        "attack":"310",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "option":"용 28",
+        "rare":"10"
+    },
+    {
+        "name":"THE데컬로그",
+        "attack":"290",
+        "critical":"35",
+        "slot":"- - -백룡 1",
+        "option":"용 45",
+        "rare":"10"
+    },
+    {
+        "name":"대귀치도[나찰]",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"3 - -백룡 2",
+        "option":"번개 25",
+        "rare":"10"
+    },
+    {
+        "name":"귀신치도[아수라]",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 2 -백룡 1",
+        "option":"번개 17",
+        "rare":"10"
+    },
+    {
+        "name":"신참-풍운멸렬",
+        "attack":"330",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "option":"용 22",
+        "rare":"10"
+    },
+    {
+        "name":"신참-뇌화멸렬[3]",
+        "attack":"310",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "option":"번개 63",
+        "rare":"10"
+    },
+    {
+        "name":"폭린도 바젤자르",
+        "attack":"330",
+        "critical":"-10",
+        "slot":"1 - -백룡 2",
+        "option":"폭파 23",
+        "rare":"10"
+    },
+    {
+        "name":"다오라스톰[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"1 - -백룡 3",
+        "option":"얼음 56",
+        "rare":"10"
+    },
+    {
+        "name":"염제왕도[신기루]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"폭파 60",
+        "rare":"10"
+    },
+    {
+        "name":"에스페이즘[2]",
+        "attack":"300",
+        "critical":"15",
+        "slot":"3 2 2백룡 2",
+        "option":"방어+20",
+        "rare":"10"
+    },
+    {
+        "name":"혁절의섬익 아케이샤[2]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"용 53",
+        "rare":"10"
+    },
+    {
+        "name":"명연참도 브론테[7]",
+        "attack":"340",
+        "critical":"-25",
+        "slot":"- - -백룡 3",
+        "option":"용 19",
+        "rare":"10"
+    },
+    {
+        "name":"재화겸 달크나로스[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 2 -백룡 2",
+        "option":"용 48",
+        "rare":"10"
+    },
+    {
+        "name":"계승의보도[진카무라]",
+        "attack":"290",
+        "critical":"40",
+        "slot":"3 - -백룡 2",
+        "option":"불 32",
+        "rare":"10"
+    },
+    {
+        "name":"왕국기사태도 브레이브+[6]",
+        "attack":"310",
+        "critical":"10",
+        "slot":"2 1 -백룡 2",
+        "option":"방어+50",
+        "rare":"10"
+    },
+    {
+        "name":"오르도마키나-LS",
+        "attack":"320",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "option":"수면 18",
+        "rare":"10"
+    },
+    {
+        "name":"카무라걸도[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 2 -백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"열공의 플뤼겔",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 - -백룡 1",
+        "option":"용 30",
+        "rare":"10"
+    },
+    {
+        "name":"칠성도[천권][1]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 2 -백룡 1",
+        "option":"독 14",
+        "rare":"10"
+    },
+    {
+        "name":"비룡도[월][1]",
+        "attack":"330",
+        "critical":"10",
+        "slot":"3 - -백룡 2",
+        "option":"독 39",
+        "rare":"10"
+    },
+    {
+        "name":"진-왕아도[천위]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "option":"번개 55",
+        "rare":"10"
+    },
+    {
+        "name":"비룡도[은]",
+        "attack":"300",
+        "critical":"30",
+        "slot":"2 - -백룡 2",
+        "option":"불 65",
+        "rare":"10"
+    },
+    {
+        "name":"폭염도 바젤프로지오[1]",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"1 1 -백룡 2",
+        "option":"폭파 28",
+        "rare":"10"
+    },
+    {
+        "name":"새벽빛의자도 실오레",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 2 -백룡 1",
+        "option":"불 48",
+        "rare":"10"
+    },
+    {
+        "name":"백토극인 이나바",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"2 1 -백룡 2",
+        "option":"얼음 27",
+        "rare":"10"
+    },
+    {
+        "name":"호황도 졸리드마우어",
+        "attack":"310",
+        "critical":"15",
+        "slot":"4 2 1백룡 1",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"볼보베르크부르크",
+        "attack":"350",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"마카르바살",
+        "attack":"330",
+        "critical":"0",
+        "slot":"1 - -백룡 2",
+        "option":"불 40방어+20",
+        "rare":"10"
+    },
+    {
+        "name":"D=기드",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"물 72",
+        "rare":"10"
+    },
+    {
+        "name":"캬발=Y",
+        "attack":"310",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "option":"불 75",
+        "rare":"10"
+    },
+    {
+        "name":"진비룡도[알렉스]",
+        "attack":"310",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "option":"번개 30",
+        "rare":"10"
+    },
+    {
+        "name":"굉도[아호]+",
+        "attack":"350",
+        "critical":"-15",
+        "slot":"- - -백룡 2",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"끊어내는 절가여참도+",
+        "attack":"310",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "option":"물 36",
+        "rare":"10"
+    },
+    {
+        "name":"무명도[공제][1]",
+        "attack":"280",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"귀신참파도+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"번개 50",
+        "rare":"10"
+    },
+    {
+        "name":"동인[무화]+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "option":"얼음 40",
+        "rare":"9"
+    },
+    {
+        "name":"차가운 달의 백인",
+        "attack":"290",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"얼음 24",
+        "rare":"9"
+    },
+    {
+        "name":"차가운 달의 백인+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"얼음 28",
+        "rare":"9"
+    },
+    {
+        "name":"진비룡도[취연]",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"독 43",
+        "rare":"9"
+    },
+    {
+        "name":"로젠페더",
+        "attack":"290",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "option":"독 15",
+        "rare":"9"
+    },
+    {
+        "name":"로젠페더+",
+        "attack":"300",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "option":"독 19",
+        "rare":"9"
+    },
+    {
+        "name":"비룡도[풍]+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "option":"불 45",
+        "rare":"9"
+    },
+    {
+        "name":"시미터알나지트",
+        "attack":"300",
+        "critical":"10",
+        "slot":"1 - -백룡 2",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"시미터알나지트+",
+        "attack":"310",
+        "critical":"10",
+        "slot":"1 - -백룡 2",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"만염도 로긴소브레",
+        "attack":"320",
+        "critical":"-20",
+        "slot":"2 1 -백룡 2",
+        "option":"불 28",
+        "rare":"9"
+    },
+    {
+        "name":"바스티아나사벨+",
+        "attack":"270",
+        "critical":"35",
+        "slot":"1 1 -백룡 1",
+        "option":"얼음 35",
+        "rare":"9"
+    },
+    {
+        "name":"설화의 스노포+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"1 1 -백룡 3",
+        "option":"얼음 65",
+        "rare":"9"
+    },
+    {
+        "name":"고르무-커터+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 2 1백룡 3",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"기자미커터+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"물 17",
+        "rare":"9"
+    },
+    {
+        "name":"마가대유령태도 아가라",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "option":"폭파 33",
+        "rare":"9"
+    },
+    {
+        "name":"스틸of팩트",
+        "attack":"290",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "option":"용 22",
+        "rare":"9"
+    },
+    {
+        "name":"스틸of팩트+",
+        "attack":"300",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "option":"용 26",
+        "rare":"9"
+    },
+    {
+        "name":"THE저스티스",
+        "attack":"280",
+        "critical":"35",
+        "slot":"- - -백룡 1",
+        "option":"용 38",
+        "rare":"9"
+    },
+    {
+        "name":"대귀치도+",
+        "attack":"330",
+        "critical":"-10",
+        "slot":"3 - -백룡 2",
+        "option":"번개 20",
+        "rare":"9"
+    },
+    {
+        "name":"강빙대인+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"1 - -백룡 3",
+        "option":"얼음 52",
+        "rare":"9"
+    },
+    {
+        "name":"제왕도[양염]+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"폭파 54",
+        "rare":"9"
+    },
+    {
+        "name":"팬텀미라지+",
+        "attack":"290",
+        "critical":"15",
+        "slot":"2 2 1백룡 2",
+        "option":"방어+15",
+        "rare":"9"
+    },
+    {
+        "name":"계승의보도[카무라]+",
+        "attack":"280",
+        "critical":"40",
+        "slot":"3 - -백룡 2",
+        "option":"불 25",
+        "rare":"9"
+    },
+    {
+        "name":"왕국기사태도 브레이브",
+        "attack":"300",
+        "critical":"10",
+        "slot":"2 - -백룡 2",
+        "option":"방어+50",
+        "rare":"9"
+    },
+    {
+        "name":"듀크싱클레어",
+        "attack":"310",
+        "critical":"0",
+        "slot":"4 - -백룡 1",
+        "option":"용 28",
+        "rare":"9"
+    },
+    {
+        "name":"왕아도[복뢰]+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "option":"번개 47",
+        "rare":"9"
+    },
+    {
+        "name":"임페리얼소드 III",
+        "attack":"290",
+        "critical":"10",
+        "slot":"2 2 1백룡 1",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"D=이안즈+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"물 63",
+        "rare":"9"
+    },
+    {
+        "name":"Y센",
+        "attack":"280",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "option":"불 63",
+        "rare":"9"
+    },
+    {
+        "name":"Y센+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "option":"불 65",
+        "rare":"9"
+    },
+    {
+        "name":"비룡도[페리도트]",
+        "attack":"290",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "option":"번개 23",
+        "rare":"9"
+    },
+    {
+        "name":"비룡도[페리도트]+",
+        "attack":"300",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "option":"번개 27",
+        "rare":"9"
+    },
+    {
+        "name":"일호도[아인]+",
+        "attack":"320",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"굉도[아호]",
+        "attack":"330",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"끊어내는 절도의참진+",
+        "attack":"290",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "option":"물 30",
+        "rare":"9"
+    },
+    {
+        "name":"끊어내는 절가여참도",
+        "attack":"300",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "option":"물 33",
+        "rare":"9"
+    },
+    {
+        "name":"야도[첨영]+",
+        "attack":"270",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"동인[무화]",
+        "attack":"250",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "option":"얼음 35",
+        "rare":"8"
+    },
+    {
+        "name":"비룡도[규]+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"독 36",
+        "rare":"8"
+    },
+    {
+        "name":"골도 구알가+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"골단도[카게타치]",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"흑도[영의형]",
+        "attack":"230",
+        "critical":"5",
+        "slot":"- - -백룡 1",
+        "option":"방어+10",
+        "rare":"8"
+    },
+    {
+        "name":"흑도[영의형]+",
+        "attack":"270",
+        "critical":"5",
+        "slot":"- - -백룡 1",
+        "option":"방어+10",
+        "rare":"8"
+    },
+    {
+        "name":"만악도플람엘소브레+",
+        "attack":"270",
+        "critical":"-20",
+        "slot":"2 1 -백룡 2",
+        "option":"불 26",
+        "rare":"8"
+    },
+    {
+        "name":"바스티아나사벨",
+        "attack":"250",
+        "critical":"35",
+        "slot":"1 1 -백룡 1",
+        "option":"얼음 32",
+        "rare":"8"
+    },
+    {
+        "name":"포이즌헤케트+",
+        "attack":"230",
+        "critical":"0",
+        "slot":"1 1 -백룡 1",
+        "option":"독 43",
+        "rare":"8"
+    },
+    {
+        "name":"골박도[카게누이]+",
+        "attack":"220",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"마비 22",
+        "rare":"8"
+    },
+    {
+        "name":"비뢰도[소하야]+[1]",
+        "attack":"240",
+        "critical":"15",
+        "slot":"1 - -백룡 2",
+        "option":"번개 31",
+        "rare":"8"
+    },
+    {
+        "name":"비뢰섬도[오니우치]",
+        "attack":"270",
+        "critical":"15",
+        "slot":"1 - -백룡 2",
+        "option":"번개 35",
+        "rare":"8"
+    },
+    {
+        "name":"리무스팔루람+",
+        "attack":"270",
+        "critical":"-10",
+        "slot":"3 - -백룡 2",
+        "option":"물 21",
+        "rare":"8"
+    },
+    {
+        "name":"발토스-가라",
+        "attack":"300",
+        "critical":"-10",
+        "slot":"3 1 -백룡 2",
+        "option":"물 25",
+        "rare":"8"
+    },
+    {
+        "name":"가우시도[녹대각]",
+        "attack":"240",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "option":"방어+30",
+        "rare":"8"
+    },
+    {
+        "name":"가우시도[녹대각]+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "option":"방어+30",
+        "rare":"8"
+    },
+    {
+        "name":"몽환의멜로포+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "option":"수면 22",
+        "rare":"8"
+    },
+    {
+        "name":"몽염도 멜로포",
+        "attack":"280",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "option":"수면 25",
+        "rare":"8"
+    },
+    {
+        "name":"설화의 스노포",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 1 -백룡 3",
+        "option":"얼음 62",
+        "rare":"8"
+    },
+    {
+        "name":"보어바르디슈+",
+        "attack":"230",
+        "critical":"0",
+        "slot":"2 1 1백룡 3",
+        "option":"물 37",
+        "rare":"8"
+    },
+    {
+        "name":"버서팔로스",
+        "attack":"280",
+        "critical":"0",
+        "slot":"2 1 1백룡 3",
+        "option":"물 42",
+        "rare":"8"
+    },
+    {
+        "name":"고르무-커터",
+        "attack":"300",
+        "critical":"0",
+        "slot":"3 1 1백룡 3",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"청웅장필[유도]+",
+        "attack":"230",
+        "critical":"0",
+        "slot":"2 - -백룡 1",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"풍겸도 운기루+",
+        "attack":"230",
+        "critical":"15",
+        "slot":"2 1 -백룡 1",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"다크토멘트+",
+        "attack":"250",
+        "critical":"-10",
+        "slot":"1 1 1백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"다크인더다크",
+        "attack":"310",
+        "critical":"-10",
+        "slot":"1 1 1백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"크랩커터[1]",
+        "attack":"240",
+        "critical":"0",
+        "slot":"4 - -백룡 3",
+        "option":"물 21방어+30",
+        "rare":"8"
+    },
+    {
+        "name":"크랩커터+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"4 - -백룡 3",
+        "option":"물 25방어+30",
+        "rare":"8"
+    },
+    {
+        "name":"기자미커터",
+        "attack":"280",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "option":"물 15",
+        "rare":"8"
+    },
+    {
+        "name":"주독의 대겸위태도",
+        "attack":"260",
+        "critical":"-10",
+        "slot":"- - -백룡 2",
+        "option":"독 40",
+        "rare":"8"
+    },
+    {
+        "name":"주독의 대겸위태도+",
+        "attack":"290",
+        "critical":"-10",
+        "slot":"- - -백룡 2",
+        "option":"독 44",
+        "rare":"8"
+    },
+    {
+        "name":"마가유령태도 아가라+",
+        "attack":"280",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "option":"폭파 28",
+        "rare":"8"
+    },
+    {
+        "name":"마겸바르나로스+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"2 2 -백룡 2",
+        "option":"용 34",
+        "rare":"8"
+    },
+    {
+        "name":"카무라무도",
+        "attack":"240",
+        "critical":"0",
+        "slot":"4 1 -백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"카무라무도+",
+        "attack":"280",
+        "critical":"0",
+        "slot":"4 1 -백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"새벽달의자도 실코라",
+        "attack":"230",
+        "critical":"0",
+        "slot":"2 - -백룡 1",
+        "option":"불 37",
+        "rare":"8"
+    },
+    {
+        "name":"새벽달의자도 실코라+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"2 - -백룡 1",
+        "option":"불 41",
+        "rare":"8"
+    },
+    {
+        "name":"백토인[빙극]+",
+        "attack":"260",
+        "critical":"-10",
+        "slot":"2 1 -백룡 2",
+        "option":"얼음 22",
+        "rare":"8"
+    },
+    {
+        "name":"임페리얼소드 II",
+        "attack":"250",
+        "critical":"10",
+        "slot":"2 2 1백룡 1",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"볼보카스티요",
+        "attack":"250",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"볼보카스티요+",
+        "attack":"260",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"타이탄마카엘라+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 - -백룡 2",
+        "option":"불 32방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"D=이안즈[1]",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "option":"물 59",
+        "rare":"8"
+    },
+    {
+        "name":"야도[첨영][1]",
+        "attack":"240",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"귀참파+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"1 1 -백룡 3",
+        "option":"번개 35",
+        "rare":"8"
+    },
+    {
+        "name":"귀신참파도[3]",
+        "attack":"270",
+        "critical":"0",
+        "slot":"1 1 -백룡 3",
+        "option":"번개 38",
+        "rare":"8"
+    },
+    {
+        "name":"피코-프리세이프+",
+        "attack":"230",
+        "critical":"20",
+        "slot":"1 1 1백룡 2",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"폭린도바젤바르가[1]",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"1 - -",
+        "option":"폭파 17",
+        "rare":"7"
+    },
+    {
+        "name":"파란별 태도[무룡]",
+        "attack":"180",
+        "critical":"30",
+        "slot":"3 - -",
+        "option":"물 37",
+        "rare":"7"
+    },
+    {
+        "name":"대귀치도[1]",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"3 - -",
+        "option":"번개 15",
+        "rare":"7"
+    },
+    {
+        "name":"신연의풍참[2]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"용 13",
+        "rare":"7"
+    },
+    {
+        "name":"신원의뇌참[1]",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"번개 42",
+        "rare":"7"
+    },
+    {
+        "name":"다오라레이도[1]",
+        "attack":"190",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"얼음 45",
+        "rare":"7"
+    },
+    {
+        "name":"제왕도[양염][1]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"폭파 41",
+        "rare":"7"
+    },
+    {
+        "name":"팬텀미라지[17]",
+        "attack":"220",
+        "critical":"15",
+        "slot":"2 1 1",
+        "option":"방어+10",
+        "rare":"7"
+    },
+    {
+        "name":"용천도[홍백무][4]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"용 39",
+        "rare":"7"
+    },
+    {
+        "name":"계승의보도[카무라][7]",
+        "attack":"190",
+        "critical":"40",
+        "slot":"3 - -",
+        "option":"불 15",
+        "rare":"7"
+    },
+    {
+        "name":"백룡도[천변만화][2]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"7"
+    },
+    {
+        "name":"일호도[아인][7]",
+        "attack":"230",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"비룡도[풍][1]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"불 36",
+        "rare":"6"
+    },
+    {
+        "name":"대겸위태도[2]",
+        "attack":"210",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"독 34",
+        "rare":"6"
+    },
+    {
+        "name":"폭린의대도 I",
+        "attack":"200",
+        "critical":"-10",
+        "slot":"1 - -",
+        "option":"폭파 13",
+        "rare":"6"
+    },
+    {
+        "name":"폭린의대도 II",
+        "attack":"210",
+        "critical":"-10",
+        "slot":"1 - -",
+        "option":"폭파 15",
+        "rare":"6"
+    },
+    {
+        "name":"강빙대인 I[1]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"얼음 43",
+        "rare":"6"
+    },
+    {
+        "name":"제왕도 I",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"폭파 35",
+        "rare":"6"
+    },
+    {
+        "name":"미라지쇼텔 I",
+        "attack":"210",
+        "critical":"15",
+        "slot":"2 1 1",
+        "option":"방어+10",
+        "rare":"6"
+    },
+    {
+        "name":"백룡도 V",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"파란별 태도 I",
+        "attack":"170",
+        "critical":"20",
+        "slot":"3 - -",
+        "option":"물 20",
+        "rare":"6"
+    },
+    {
+        "name":"왕아도[복뢰][1]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"1 1 -",
+        "option":"번개 34",
+        "rare":"6"
+    },
+    {
+        "name":"D투 II",
+        "attack":"160",
+        "critical":"0",
+        "slot":"2 1 -",
+        "option":"물 41",
+        "rare":"6"
+    },
+    {
+        "name":"D바이더[2]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 1 -",
+        "option":"물 48",
+        "rare":"6"
+    },
+    {
+        "name":"일호도 II",
+        "attack":"220",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"야도[월영][15]",
+        "attack":"180",
+        "critical":"40",
+        "slot":"2 - -",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"동인[빙화][3]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"얼음 27",
+        "rare":"6"
+    },
+    {
+        "name":"비룡도[주] II",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"불 32",
+        "rare":"6"
+    },
+    {
+        "name":"골도 구알가[4]",
+        "attack":"230",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"만악도플람엘소브레[1]",
+        "attack":"230",
+        "critical":"-20",
+        "slot":"2 1 -",
+        "option":"불 24",
+        "rare":"6"
+    },
+    {
+        "name":"리무스팔루람[1]",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"물 16",
+        "rare":"6"
+    },
+    {
+        "name":"가우시도[녹각][1]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"3 - -",
+        "option":"방어+15",
+        "rare":"6"
+    },
+    {
+        "name":"끊어내는 절도의참진[2]",
+        "attack":"210",
+        "critical":"15",
+        "slot":"- - -",
+        "option":"물 22",
+        "rare":"6"
+    },
+    {
+        "name":"마가유령태도 아가라[1]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"2 1 -",
+        "option":"폭파 23",
+        "rare":"6"
+    },
+    {
+        "name":"귀치도 II",
+        "attack":"200",
+        "critical":"-10",
+        "slot":"3 - -",
+        "option":"번개 12",
+        "rare":"6"
+    },
+    {
+        "name":"혁익도 I",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"용 35",
+        "rare":"6"
+    },
+    {
+        "name":"폭풍의신도 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"용 12",
+        "rare":"6"
+    },
+    {
+        "name":"천둥의 신도 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"번개 38",
+        "rare":"6"
+    },
+    {
+        "name":"마겸바르나로스",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 2 -",
+        "option":"용 27",
+        "rare":"6"
+    },
+    {
+        "name":"백룡도 IV[1]",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"카무라닌자도[1]",
+        "attack":"190",
+        "critical":"0",
+        "slot":"2 1 -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"왕도 라이키리 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"번개 31",
+        "rare":"5"
+    },
+    {
+        "name":"새벽의자도 실카바레[1]",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"불 26",
+        "rare":"5"
+    },
+    {
+        "name":"볼보카스텔름[1]",
+        "attack":"200",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"타이탄마카엘라[1]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"불 22방어+20",
+        "rare":"5"
+    },
+    {
+        "name":"철거도[천절][3]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"호도카카루쿠모나키 II[1]",
+        "attack":"190",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"물 19",
+        "rare":"5"
+    },
+    {
+        "name":"히든사벨 II",
+        "attack":"160",
+        "critical":"35",
+        "slot":"2 - -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"귀참파[2]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 1 -",
+        "option":"번개 27",
+        "rare":"5"
+    },
+    {
+        "name":"동인 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"얼음 20",
+        "rare":"5"
+    },
+    {
+        "name":"비룡도[익] II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"독 20",
+        "rare":"5"
+    },
+    {
+        "name":"비룡도[규][1]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"독 22",
+        "rare":"5"
+    },
+    {
+        "name":"비룡도[주] I",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"불 25",
+        "rare":"5"
+    },
+    {
+        "name":"골도[견아] II",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"플람엘소브레 II",
+        "attack":"210",
+        "critical":"-20",
+        "slot":"2 1 -",
+        "option":"불 20",
+        "rare":"5"
+    },
+    {
+        "name":"바스티잔에지[1]",
+        "attack":"160",
+        "critical":"35",
+        "slot":"1 1 -",
+        "option":"얼음 27",
+        "rare":"5"
+    },
+    {
+        "name":"비뢰도[소하야][1]",
+        "attack":"180",
+        "critical":"15",
+        "slot":"1 - -",
+        "option":"번개 24",
+        "rare":"5"
+    },
+    {
+        "name":"리무스라마 I",
+        "attack":"190",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"물 14",
+        "rare":"5"
+    },
+    {
+        "name":"리무스라마 II",
+        "attack":"200",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"물 15",
+        "rare":"5"
+    },
+    {
+        "name":"가우시도 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"방어+10",
+        "rare":"5"
+    },
+    {
+        "name":"몽환의멜로포[1]",
+        "attack":"190",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"수면 19",
+        "rare":"5"
+    },
+    {
+        "name":"보어바르디슈[1]",
+        "attack":"160",
+        "critical":"0",
+        "slot":"2 1 1",
+        "option":"물 28",
+        "rare":"5"
+    },
+    {
+        "name":"다크토멘트[1]",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"1 1 1",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"겸위태도 I",
+        "attack":"170",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"독 25",
+        "rare":"5"
+    },
+    {
+        "name":"겸위태도 II",
+        "attack":"190",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"독 29",
+        "rare":"5"
+    },
+    {
+        "name":"귀치도 I",
+        "attack":"190",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"번개 10",
+        "rare":"5"
+    },
+    {
+        "name":"폭풍의신도 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"용 10",
+        "rare":"5"
+    },
+    {
+        "name":"데스퍼레이션 III",
+        "attack":"160",
+        "critical":"0",
+        "slot":"2 2 -",
+        "option":"용 25",
+        "rare":"5"
+    },
+    {
+        "name":"백룡도 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"백룡도 III",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"계승의태도[무명] II[2]",
+        "attack":"180",
+        "critical":"10",
+        "slot":"3 - -",
+        "option":"불 10",
+        "rare":"5"
+    },
+    {
+        "name":"수호단의태도-용",
+        "attack":"230",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"방어+30",
+        "rare":"5"
+    },
+    {
+        "name":"카무라철도 V",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"시름스사브르 II",
+        "attack":"160",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"불 19",
+        "rare":"4"
+    },
+    {
+        "name":"백토인[빙극][1]",
+        "attack":"180",
+        "critical":"-10",
+        "slot":"2 1 -",
+        "option":"얼음 15",
+        "rare":"4"
+    },
+    {
+        "name":"임페리얼소드[1]",
+        "attack":"140",
+        "critical":"10",
+        "slot":"2 1 1",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"철거도 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"참파도 II",
+        "attack":"160",
+        "critical":"0",
+        "slot":"1 1 -",
+        "option":"번개 24",
+        "rare":"4"
+    },
+    {
+        "name":"피코-프리세이프[1]",
+        "attack":"160",
+        "critical":"20",
+        "slot":"1 1 1",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"동인 I",
+        "attack":"160",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"얼음 18",
+        "rare":"4"
+    },
+    {
+        "name":"골도[견아] I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"포이즌헤케트[1]",
+        "attack":"150",
+        "critical":"0",
+        "slot":"1 1 -",
+        "option":"독 28",
+        "rare":"4"
+    },
+    {
+        "name":"골박도[카게누이][1]",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"마비 17",
+        "rare":"4"
+    },
+    {
+        "name":"가우시도 I",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "option":"방어+5",
+        "rare":"4"
+    },
+    {
+        "name":"청웅장필[유도][1]",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"풍겸도 운기루[1]",
+        "attack":"140",
+        "critical":"15",
+        "slot":"2 1 -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"다크사이즈 I",
+        "attack":"180",
+        "critical":"-15",
+        "slot":"1 1 -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"백룡도 I",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"수호단철벽태도 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"방어+30",
+        "rare":"4"
+    },
+    {
+        "name":"수호단철벽태도 III",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"방어+30",
+        "rare":"4"
+    },
+    {
+        "name":"카무라철도 IV",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"왕도 라이키리 I",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"번개 16",
+        "rare":"3"
+    },
+    {
+        "name":"드래그로카스텔로 II",
+        "attack":"150",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"기간트마카엘라 II",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"불 18방어+20",
+        "rare":"3"
+    },
+    {
+        "name":"D투 I",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"물 33",
+        "rare":"3"
+    },
+    {
+        "name":"철거도 I",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"일호도 I",
+        "attack":"160",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"호도카카루쿠모나키 I",
+        "attack":"120",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"물 16",
+        "rare":"3"
+    },
+    {
+        "name":"히든사벨 I",
+        "attack":"120",
+        "critical":"30",
+        "slot":"- - -",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"피코-세이프 II",
+        "attack":"130",
+        "critical":"15",
+        "slot":"- - -",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"플람엘소브레 I",
+        "attack":"140",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"불 11",
+        "rare":"3"
+    },
+    {
+        "name":"바스틴에지 II",
+        "attack":"120",
+        "critical":"30",
+        "slot":"- - -",
+        "option":"얼음 19",
+        "rare":"3"
+    },
+    {
+        "name":"프로기소드 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"독 23",
+        "rare":"3"
+    },
+    {
+        "name":"비뢰도키리카가치 II",
+        "attack":"140",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"번개 21",
+        "rare":"3"
+    },
+    {
+        "name":"멜로포 II",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"수면 15",
+        "rare":"3"
+    },
+    {
+        "name":"마가태도[봉] I[1]",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"폭파 13",
+        "rare":"3"
+    },
+    {
+        "name":"마가태도[봉] II",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"폭파 16",
+        "rare":"3"
+    },
+    {
+        "name":"데스퍼레이션 II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"용 21",
+        "rare":"3"
+    },
+    {
+        "name":"계승의태도[무명] I",
+        "attack":"120",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"불 7",
+        "rare":"3"
+    },
+    {
+        "name":"카무라철도 III",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"시름스사브르 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"불 13",
+        "rare":"2"
+    },
+    {
+        "name":"백토인 II",
+        "attack":"110",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"얼음 12",
+        "rare":"2"
+    },
+    {
+        "name":"가디언소드 II",
+        "attack":"100",
+        "critical":"5",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"드래그로카스텔로 I",
+        "attack":"120",
+        "critical":"-20",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"기간트마카엘라 I",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"불 12방어+20",
+        "rare":"2"
+    },
+    {
+        "name":"철도[신락]",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"참파도 I[1]",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"번개 18",
+        "rare":"2"
+    },
+    {
+        "name":"피코-세이프 I",
+        "attack":"100",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"비룡도[익] I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"독 18",
+        "rare":"2"
+    },
+    {
+        "name":"악인브라크스",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"바스틴에지 I",
+        "attack":"90",
+        "critical":"30",
+        "slot":"- - -",
+        "option":"얼음 15",
+        "rare":"2"
+    },
+    {
+        "name":"프로기소드 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"독 19",
+        "rare":"2"
+    },
+    {
+        "name":"골도 아난타 II",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"마비 12",
+        "rare":"2"
+    },
+    {
+        "name":"본리퍼",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"비뢰도키리카가치 I",
+        "attack":"100",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"번개 19",
+        "rare":"2"
+    },
+    {
+        "name":"멜로포 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"수면 12",
+        "rare":"2"
+    },
+    {
+        "name":"드로운폴 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"물 20",
+        "rare":"2"
+    },
+    {
+        "name":"드로운폴 II",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"물 23",
+        "rare":"2"
+    },
+    {
+        "name":"청웅도 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"바람의적도 II",
+        "attack":"100",
+        "critical":"15",
+        "slot":"- - -",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"데스퍼레이션 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"용 20",
+        "rare":"2"
+    },
+    {
+        "name":"수호단철벽태도",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"방어+30",
+        "rare":"2"
+    },
+    {
+        "name":"카무라철도 I",
+        "attack":"50",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"카무라철도 II",
+        "attack":"60",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"백토인 I",
+        "attack":"100",
+        "critical":"-10",
+        "slot":"- - -",
+        "option":"얼음 10",
+        "rare":"1"
+    },
+    {
+        "name":"가디언소드 I",
+        "attack":"90",
+        "critical":"5",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"철도 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"철도 II",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"악인 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"악인 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"골도 아난타 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"마비 9",
+        "rare":"1"
+    },
+    {
+        "name":"본사이즈 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"본사이즈 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"청웅도 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"바람의적도 I",
+        "attack":"70",
+        "critical":"10",
+        "slot":"- - -",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"수호단방어태도 I",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "option":"방어+30",
+        "rare":"1"
+    }
+]

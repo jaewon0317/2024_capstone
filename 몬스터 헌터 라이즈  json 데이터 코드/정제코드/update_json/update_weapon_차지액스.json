@@ -1,0 +1,2342 @@
+[
+    {
+        "name":"파사의의부 오몬시로",
+        "attack":"320",
+        "critical":"10",
+        "slot":"2 2 2백룡 1",
+        "etc":"유탄병",
+        "option":"불 18",
+        "rare":"10"
+    },
+    {
+        "name":"칵투스에모레지아",
+        "attack":"310",
+        "critical":"20",
+        "slot":"4 1 1백룡 3",
+        "etc":"강속성병",
+        "option":"불 45",
+        "rare":"10"
+    },
+    {
+        "name":"팍스or카타스톨",
+        "attack":"340",
+        "critical":"-30\/15",
+        "slot":"3 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"용 48",
+        "rare":"10"
+    },
+    {
+        "name":"카무라걸순부",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 2 -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"빙부 다르크",
+        "attack":"340",
+        "critical":"0",
+        "slot":"4 - -백룡 3",
+        "etc":"강속성병",
+        "option":"얼음 28",
+        "rare":"10"
+    },
+    {
+        "name":"혈취의 애들러",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 - -백룡 1",
+        "etc":"유탄병",
+        "option":"용 27",
+        "rare":"10"
+    },
+    {
+        "name":"디아루테미네바+",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 1 -백룡 3",
+        "etc":"강속성병",
+        "option":"불 54",
+        "rare":"10"
+    },
+    {
+        "name":"로젠에모레지아",
+        "attack":"320",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "etc":"유탄병",
+        "option":"독 23",
+        "rare":"10"
+    },
+    {
+        "name":"리아오르돌",
+        "attack":"310",
+        "critical":"25",
+        "slot":"1 1 1백룡 1",
+        "etc":"강속성병",
+        "option":"얼음 48",
+        "rare":"10"
+    },
+    {
+        "name":"진-왕아순부[굉천]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"강속성병",
+        "option":"번개 52",
+        "rare":"10"
+    },
+    {
+        "name":"흉화[농운]",
+        "attack":"360",
+        "critical":"-25",
+        "slot":"- - -백룡 3",
+        "etc":"유탄병",
+        "option":"물 44",
+        "rare":"10"
+    },
+    {
+        "name":"진와식-합장비틀기+",
+        "attack":"340",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"물 36방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"골리앗암즈",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"독 40방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"고샤! 기가고가샤!",
+        "attack":"350",
+        "critical":"-20",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"얼음 23",
+        "rare":"10"
+    },
+    {
+        "name":"카이젤코마던트+",
+        "attack":"340",
+        "critical":"0",
+        "slot":"2 2 -백룡 3",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"빙륜순부 판셀레논",
+        "attack":"330",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"얼음 32",
+        "rare":"10"
+    },
+    {
+        "name":"각은의 삭부",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 4 4백룡 3",
+        "etc":"강속성병",
+        "option":"용 51",
+        "rare":"10"
+    },
+    {
+        "name":"트리스탄이졸데+",
+        "attack":"320",
+        "critical":"20",
+        "slot":"3 - -백룡 3",
+        "etc":"강속성병",
+        "option":"번개 58",
+        "rare":"10"
+    },
+    {
+        "name":"벽전부 암가라크레스+",
+        "attack":"310",
+        "critical":"30",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"번개 35",
+        "rare":"10"
+    },
+    {
+        "name":"앙고아-드-에테르네",
+        "attack":"300",
+        "critical":"30",
+        "slot":"2 1 1백룡 2",
+        "etc":"강속성병",
+        "option":"불 66",
+        "rare":"10"
+    },
+    {
+        "name":"엔트-다-라바타",
+        "attack":"320",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"폭파 22",
+        "rare":"10"
+    },
+    {
+        "name":"굉순부[대기호]+",
+        "attack":"350",
+        "critical":"-15",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"실오라기 의문명호부+",
+        "attack":"310",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"물 58",
+        "rare":"10"
+    },
+    {
+        "name":"만뢰순부[오텐타]+",
+        "attack":"330",
+        "critical":"15",
+        "slot":"2 1 1백룡 1",
+        "etc":"유탄병",
+        "option":"번개 42",
+        "rare":"10"
+    },
+    {
+        "name":"대풍겸순부 헬리오테",
+        "attack":"320",
+        "critical":"20",
+        "slot":"2 1 -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"무명순부[정견][1]",
+        "attack":"300",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"단골순부 실트베일+",
+        "attack":"350",
+        "critical":"0",
+        "slot":"- - -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"반순부 알마이서",
+        "attack":"330",
+        "critical":"10",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"나데기리",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 - -백룡 2",
+        "etc":"유탄병",
+        "option":"물 33",
+        "rare":"10"
+    },
+    {
+        "name":"발토스-보와+",
+        "attack":"350",
+        "critical":"-10",
+        "slot":"1 1 1백룡 2",
+        "etc":"강속성병",
+        "option":"물 29",
+        "rare":"10"
+    },
+    {
+        "name":"주염부 플렘리온",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"유탄병",
+        "option":"불 60",
+        "rare":"10"
+    },
+    {
+        "name":"몽염순부 멜로베로+",
+        "attack":"340",
+        "critical":"0",
+        "slot":"3 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"수면 25",
+        "rare":"10"
+    },
+    {
+        "name":"극광설부 스노베로",
+        "attack":"320",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"강속성병",
+        "option":"얼음 71",
+        "rare":"10"
+    },
+    {
+        "name":"독순부 디리티리오+",
+        "attack":"350",
+        "critical":"-10",
+        "slot":"1 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"독 25",
+        "rare":"10"
+    },
+    {
+        "name":"용순부 드래퀴라+",
+        "attack":"330",
+        "critical":"-5",
+        "slot":"2 1 1백룡 3",
+        "etc":"강속성병",
+        "option":"용 55",
+        "rare":"10"
+    },
+    {
+        "name":"볼보로컴플리트",
+        "attack":"360",
+        "critical":"-20",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"거괴순부 골디록",
+        "attack":"360",
+        "critical":"0",
+        "slot":"4 2 1백룡 3",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"각왕순부 지오블로스+[2]",
+        "attack":"370",
+        "critical":"-30",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"격갑순부루크로타시오+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"마비 23",
+        "rare":"10"
+    },
+    {
+        "name":"개원귀순부 그롤덤",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 2 -백룡 2",
+        "etc":"유탄병",
+        "option":"폭파 32",
+        "rare":"10"
+    },
+    {
+        "name":"포스of카타스톨",
+        "attack":"320",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"용 30",
+        "rare":"10"
+    },
+    {
+        "name":"THE세이버",
+        "attack":"300",
+        "critical":"35",
+        "slot":"- - -백룡 1",
+        "etc":"유탄병",
+        "option":"용 42",
+        "rare":"10"
+    },
+    {
+        "name":"금강대순부 낙뢰",
+        "attack":"340",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"유탄병",
+        "option":"번개 24",
+        "rare":"10"
+    },
+    {
+        "name":"귀신순부[야차]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 2 -백룡 1",
+        "etc":"유탄병",
+        "option":"번개 18",
+        "rare":"10"
+    },
+    {
+        "name":"신호-풍운숙명",
+        "attack":"340",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"유탄병",
+        "option":"용 23",
+        "rare":"10"
+    },
+    {
+        "name":"신호-뇌화숙명[2]",
+        "attack":"310",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"강속성병",
+        "option":"번개 75",
+        "rare":"10"
+    },
+    {
+        "name":"다오라아쿠파라",
+        "attack":"320",
+        "critical":"10",
+        "slot":"1 - -백룡 3",
+        "etc":"유탄병",
+        "option":"얼음 62",
+        "rare":"10"
+    },
+    {
+        "name":"테스카-델-에스트",
+        "attack":"330",
+        "critical":"0",
+        "slot":"- - -백룡 3",
+        "etc":"유탄병",
+        "option":"폭파 55",
+        "rare":"10"
+    },
+    {
+        "name":"환광의셔플[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"독 52",
+        "rare":"10"
+    },
+    {
+        "name":"혁절의기익 시그니",
+        "attack":"340",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"강속성병",
+        "option":"용 60",
+        "rare":"10"
+    },
+    {
+        "name":"명연순부 로그미[2]",
+        "attack":"350",
+        "critical":"-25",
+        "slot":"- - -백룡 3",
+        "etc":"유탄병",
+        "option":"용 17",
+        "rare":"10"
+    },
+    {
+        "name":"왕쿵떡순부절구",
+        "attack":"340",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"오미너스펠레스",
+        "attack":"330",
+        "critical":"0",
+        "slot":"1 1 1백룡 1",
+        "etc":"유탄병",
+        "option":"마비 30",
+        "rare":"10"
+    },
+    {
+        "name":"협인열부기라르와가",
+        "attack":"330",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"용 34",
+        "rare":"10"
+    },
+    {
+        "name":"신선부알마드라드[3]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 1 -백룡 3",
+        "etc":"강속성병",
+        "option":"물 57",
+        "rare":"10"
+    },
+    {
+        "name":"왕국기사순부 에스프리+[1]",
+        "attack":"320",
+        "critical":"10",
+        "slot":"2 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"방어+50",
+        "rare":"10"
+    },
+    {
+        "name":"오르도마키나-CB",
+        "attack":"330",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"유탄병",
+        "option":"수면 13",
+        "rare":"10"
+    },
+    {
+        "name":"루나에스토레",
+        "attack":"330",
+        "critical":"10",
+        "slot":"4 - -백룡 2",
+        "etc":"유탄병",
+        "option":"독 46",
+        "rare":"10"
+    },
+    {
+        "name":"두수순부[천기][1]",
+        "attack":"340",
+        "critical":"0",
+        "slot":"4 2 -백룡 1",
+        "etc":"유탄병",
+        "option":"독 18",
+        "rare":"10"
+    },
+    {
+        "name":"업화부 헤르메스레이",
+        "attack":"330",
+        "critical":"15",
+        "slot":"4 - -백룡 2",
+        "etc":"강속성병",
+        "option":"불 48",
+        "rare":"10"
+    },
+    {
+        "name":"듀크실트",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 - -백룡 1",
+        "etc":"유탄병",
+        "option":"용 24",
+        "rare":"9"
+    },
+    {
+        "name":"디아루테미네바",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "etc":"강속성병",
+        "option":"불 48",
+        "rare":"9"
+    },
+    {
+        "name":"로젠루페",
+        "attack":"300",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "etc":"유탄병",
+        "option":"독 20",
+        "rare":"9"
+    },
+    {
+        "name":"로젠루페+",
+        "attack":"310",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "etc":"유탄병",
+        "option":"독 21",
+        "rare":"9"
+    },
+    {
+        "name":"프로스티리에레+",
+        "attack":"290",
+        "critical":"25",
+        "slot":"1 1 1백룡 1",
+        "etc":"강속성병",
+        "option":"얼음 42",
+        "rare":"9"
+    },
+    {
+        "name":"왕아순부[풍뢰]+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"강속성병",
+        "option":"번개 47",
+        "rare":"9"
+    },
+    {
+        "name":"고샤가고가샤+",
+        "attack":"330",
+        "critical":"-20",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"얼음 21",
+        "rare":"9"
+    },
+    {
+        "name":"차가운 달의 순부",
+        "attack":"300",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"얼음 27",
+        "rare":"9"
+    },
+    {
+        "name":"차가운 달의 순부+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"얼음 29",
+        "rare":"9"
+    },
+    {
+        "name":"트리스탄이졸데",
+        "attack":"300",
+        "critical":"20",
+        "slot":"3 - -백룡 3",
+        "etc":"강속성병",
+        "option":"번개 50",
+        "rare":"9"
+    },
+    {
+        "name":"전섬부 버저러크레스",
+        "attack":"290",
+        "critical":"30",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"번개 25",
+        "rare":"9"
+    },
+    {
+        "name":"벽전부 암가라크레스",
+        "attack":"300",
+        "critical":"30",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"번개 30",
+        "rare":"9"
+    },
+    {
+        "name":"레브-드-네피라+",
+        "attack":"290",
+        "critical":"30",
+        "slot":"2 1 1백룡 2",
+        "etc":"강속성병",
+        "option":"불 52",
+        "rare":"9"
+    },
+    {
+        "name":"루자토프의 문순부",
+        "attack":"290",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"폭파 17",
+        "rare":"9"
+    },
+    {
+        "name":"루자토프의 문순부+",
+        "attack":"310",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"폭파 19",
+        "rare":"9"
+    },
+    {
+        "name":"굉순부[기호]+",
+        "attack":"330",
+        "critical":"-15",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"굉순부[대기호]",
+        "attack":"340",
+        "critical":"-15",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"실오라기 의부의황제+",
+        "attack":"290",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"물 42",
+        "rare":"9"
+    },
+    {
+        "name":"실오라기 의문명호부",
+        "attack":"300",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"물 50",
+        "rare":"9"
+    },
+    {
+        "name":"야주순부[오월암]+",
+        "attack":"280",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"아슬라트알마이서",
+        "attack":"310",
+        "critical":"10",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"아슬라트알마이서+",
+        "attack":"320",
+        "critical":"10",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"블레이드가드+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"물 25",
+        "rare":"9"
+    },
+    {
+        "name":"홍련부 유니오리온+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"유탄병",
+        "option":"불 52",
+        "rare":"9"
+    },
+    {
+        "name":"설화의스노베로+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"강속성병",
+        "option":"얼음 67",
+        "rare":"9"
+    },
+    {
+        "name":"고르무-하트+",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 2 1백룡 3",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"제미라블로스암즈+",
+        "attack":"340",
+        "critical":"-30",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"방어+20",
+        "rare":"9"
+    },
+    {
+        "name":"각왕순부 지오블로스",
+        "attack":"350",
+        "critical":"-30",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"방어+20",
+        "rare":"9"
+    },
+    {
+        "name":"마가대유령순부 그롤",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"폭파 29",
+        "rare":"9"
+    },
+    {
+        "name":"포스of폴",
+        "attack":"290",
+        "critical":"20",
+        "slot":"- - -백룡 2",
+        "etc":"유탄병",
+        "option":"용 16",
+        "rare":"9"
+    },
+    {
+        "name":"포스of폴+",
+        "attack":"310",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"용 23",
+        "rare":"9"
+    },
+    {
+        "name":"THE서프레션",
+        "attack":"290",
+        "critical":"35",
+        "slot":"- - -백룡 1",
+        "etc":"유탄병",
+        "option":"용 35",
+        "rare":"9"
+    },
+    {
+        "name":"금강순부 번개+",
+        "attack":"330",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"유탄병",
+        "option":"번개 22",
+        "rare":"9"
+    },
+    {
+        "name":"다오라겐무+",
+        "attack":"310",
+        "critical":"10",
+        "slot":"1 - -백룡 3",
+        "etc":"유탄병",
+        "option":"얼음 49",
+        "rare":"9"
+    },
+    {
+        "name":"테오노바+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"- - -백룡 3",
+        "etc":"유탄병",
+        "option":"폭파 49",
+        "rare":"9"
+    },
+    {
+        "name":"환상의크리즈모스+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"독 46",
+        "rare":"9"
+    },
+    {
+        "name":"카무라무순부",
+        "attack":"250",
+        "critical":"0",
+        "slot":"4 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"카무라무순부+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"4 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"디아루테미아+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "etc":"강속성병",
+        "option":"불 44",
+        "rare":"8"
+    },
+    {
+        "name":"프로스티리에레",
+        "attack":"270",
+        "critical":"25",
+        "slot":"1 1 1백룡 1",
+        "etc":"강속성병",
+        "option":"얼음 36",
+        "rare":"8"
+    },
+    {
+        "name":"와식-합장비틀기+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"1 1 -백룡 1",
+        "etc":"유탄병",
+        "option":"물 28방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"진와식-합장비틀기",
+        "attack":"270",
+        "critical":"0",
+        "slot":"1 1 -백룡 1",
+        "etc":"유탄병",
+        "option":"물 30방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"타이탄암즈+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"독 35방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"고샤가고가샤",
+        "attack":"310",
+        "critical":"-20",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"얼음 19",
+        "rare":"8"
+    },
+    {
+        "name":"카이젤베어러+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 - -백룡 3",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"카이젤코마던트",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"디발키리+",
+        "attack":"250",
+        "critical":"20",
+        "slot":"3 - -백룡 3",
+        "etc":"강속성병",
+        "option":"번개 45",
+        "rare":"8"
+    },
+    {
+        "name":"레브-드-네피라",
+        "attack":"270",
+        "critical":"30",
+        "slot":"2 1 1백룡 2",
+        "etc":"강속성병",
+        "option":"불 40",
+        "rare":"8"
+    },
+    {
+        "name":"비뢰순부[오텐타]+",
+        "attack":"250",
+        "critical":"15",
+        "slot":"1 1 -백룡 1",
+        "etc":"유탄병",
+        "option":"번개 33",
+        "rare":"8"
+    },
+    {
+        "name":"만뢰순부[오텐타]",
+        "attack":"290",
+        "critical":"15",
+        "slot":"1 1 -백룡 1",
+        "etc":"유탄병",
+        "option":"번개 36",
+        "rare":"8"
+    },
+    {
+        "name":"풍겸순부율시크+",
+        "attack":"240",
+        "critical":"15",
+        "slot":"2 1 -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"야주순부[오월암]",
+        "attack":"270",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"본실트베일+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"- - -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"단골순부 실트베일",
+        "attack":"320",
+        "critical":"0",
+        "slot":"- - -백룡 1",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"블레이드가드",
+        "attack":"290",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"유탄병",
+        "option":"물 18",
+        "rare":"8"
+    },
+    {
+        "name":"리무스바로데르+",
+        "attack":"280",
+        "critical":"-10",
+        "slot":"1 1 1백룡 2",
+        "etc":"강속성병",
+        "option":"물 21",
+        "rare":"8"
+    },
+    {
+        "name":"발토스-보와",
+        "attack":"320",
+        "critical":"-10",
+        "slot":"1 1 1백룡 2",
+        "etc":"강속성병",
+        "option":"물 24",
+        "rare":"8"
+    },
+    {
+        "name":"몽환의멜로베로+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"수면 20",
+        "rare":"8"
+    },
+    {
+        "name":"몽염순부 멜로베로",
+        "attack":"290",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"수면 22",
+        "rare":"8"
+    },
+    {
+        "name":"설화의스노베로",
+        "attack":"280",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"강속성병",
+        "option":"얼음 65",
+        "rare":"8"
+    },
+    {
+        "name":"인펙스베일+",
+        "attack":"270",
+        "critical":"-10",
+        "slot":"1 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"독 16",
+        "rare":"8"
+    },
+    {
+        "name":"독순부 디리티리오",
+        "attack":"320",
+        "critical":"-10",
+        "slot":"1 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"독 17",
+        "rare":"8"
+    },
+    {
+        "name":"드래글힐+",
+        "attack":"260",
+        "critical":"-5",
+        "slot":"2 1 1백룡 3",
+        "etc":"강속성병",
+        "option":"용 44",
+        "rare":"8"
+    },
+    {
+        "name":"용순부 드래퀴라",
+        "attack":"290",
+        "critical":"-5",
+        "slot":"2 1 1백룡 3",
+        "etc":"강속성병",
+        "option":"용 49",
+        "rare":"8"
+    },
+    {
+        "name":"볼보로가디온",
+        "attack":"280",
+        "critical":"-20",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"볼보로가디온+",
+        "attack":"290",
+        "critical":"-20",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"고르무-하트",
+        "attack":"310",
+        "critical":"0",
+        "slot":"3 1 1백룡 3",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"갑순부로사시온+",
+        "attack":"240",
+        "critical":"0",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"마비 20",
+        "rare":"8"
+    },
+    {
+        "name":"격갑순부루크로타시오",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 - -백룡 2",
+        "etc":"유탄병",
+        "option":"마비 21",
+        "rare":"8"
+    },
+    {
+        "name":"마가유령순부 그롤+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"유탄병",
+        "option":"폭파 28",
+        "rare":"8"
+    },
+    {
+        "name":"쿵떡순부절구+",
+        "attack":"270",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"8"
+    },
+    {
+        "name":"슈라프캇체+",
+        "attack":"230",
+        "critical":"0",
+        "slot":"1 1 1백룡 1",
+        "etc":"유탄병",
+        "option":"마비 29",
+        "rare":"8"
+    },
+    {
+        "name":"협인부르와가+",
+        "attack":"290",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"용 27",
+        "rare":"8"
+    },
+    {
+        "name":"선부실드라드+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"3 1 -백룡 3",
+        "etc":"강속성병",
+        "option":"물 48",
+        "rare":"8"
+    },
+    {
+        "name":"왕국기사순부 에스프리[1]",
+        "attack":"250",
+        "critical":"10",
+        "slot":"2 - -백룡 2",
+        "etc":"유탄병",
+        "option":"방어+50",
+        "rare":"8"
+    },
+    {
+        "name":"제미라블로스암즈",
+        "attack":"240",
+        "critical":"-30",
+        "slot":"3 - -",
+        "etc":"유탄병",
+        "option":"방어+20",
+        "rare":"7"
+    },
+    {
+        "name":"금강순부 번개[1]",
+        "attack":"240",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"번개 16",
+        "rare":"7"
+    },
+    {
+        "name":"신연의풍호",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"용 17",
+        "rare":"7"
+    },
+    {
+        "name":"신원의뇌호",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"번개 38",
+        "rare":"7"
+    },
+    {
+        "name":"다오라겐무",
+        "attack":"190",
+        "critical":"10",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"얼음 36",
+        "rare":"7"
+    },
+    {
+        "name":"테오노바",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"폭파 43",
+        "rare":"7"
+    },
+    {
+        "name":"환상의크리즈모스",
+        "attack":"190",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"유탄병",
+        "option":"독 39",
+        "rare":"7"
+    },
+    {
+        "name":"용천순부스칼테바트",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"강속성병",
+        "option":"용 35",
+        "rare":"7"
+    },
+    {
+        "name":"백룡순부[임기응변][1]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"7"
+    },
+    {
+        "name":"폴트-드-네피라",
+        "attack":"170",
+        "critical":"30",
+        "slot":"2 1 1",
+        "etc":"강속성병",
+        "option":"불 34",
+        "rare":"7"
+    },
+    {
+        "name":"혁익의순부 I",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"강속성병",
+        "option":"용 30",
+        "rare":"6"
+    },
+    {
+        "name":"왕아순부[풍뢰]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"강속성병",
+        "option":"번개 26",
+        "rare":"6"
+    },
+    {
+        "name":"타이탄암즈",
+        "attack":"200",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"독 29방어+20",
+        "rare":"6"
+    },
+    {
+        "name":"고샤가가샤[2]",
+        "attack":"230",
+        "critical":"-20",
+        "slot":"2 - -",
+        "etc":"유탄병",
+        "option":"얼음 13",
+        "rare":"6"
+    },
+    {
+        "name":"디발키리",
+        "attack":"170",
+        "critical":"20",
+        "slot":"3 - -",
+        "etc":"강속성병",
+        "option":"번개 37",
+        "rare":"6"
+    },
+    {
+        "name":"준엄한폴트애쉬 I",
+        "attack":"150",
+        "critical":"25",
+        "slot":"2 1 1",
+        "etc":"강속성병",
+        "option":"불 29",
+        "rare":"6"
+    },
+    {
+        "name":"준엄한폴트애쉬 II",
+        "attack":"160",
+        "critical":"25",
+        "slot":"2 1 1",
+        "etc":"강속성병",
+        "option":"불 31",
+        "rare":"6"
+    },
+    {
+        "name":"렉스디바이드 II",
+        "attack":"210",
+        "critical":"-15",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"야주순부[명명리][1]",
+        "attack":"190",
+        "critical":"40",
+        "slot":"2 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"리무스실트 II",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"1 1 1",
+        "etc":"강속성병",
+        "option":"물 11",
+        "rare":"6"
+    },
+    {
+        "name":"리무스바로데르",
+        "attack":"230",
+        "critical":"-10",
+        "slot":"1 1 1",
+        "etc":"강속성병",
+        "option":"물 12",
+        "rare":"6"
+    },
+    {
+        "name":"드래글힐",
+        "attack":"200",
+        "critical":"-5",
+        "slot":"2 1 1",
+        "etc":"강속성병",
+        "option":"용 36",
+        "rare":"6"
+    },
+    {
+        "name":"블로스암즈 I",
+        "attack":"220",
+        "critical":"-30",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+10",
+        "rare":"6"
+    },
+    {
+        "name":"블로스암즈 II[1]",
+        "attack":"230",
+        "critical":"-30",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+10",
+        "rare":"6"
+    },
+    {
+        "name":"갑순부로사시온",
+        "attack":"200",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"마비 19",
+        "rare":"6"
+    },
+    {
+        "name":"마가유령순부 그롤",
+        "attack":"200",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"유탄병",
+        "option":"폭파 26",
+        "rare":"6"
+    },
+    {
+        "name":"금강순부 II[2]",
+        "attack":"230",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"번개 14",
+        "rare":"6"
+    },
+    {
+        "name":"폭풍의신순부 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"용 9",
+        "rare":"6"
+    },
+    {
+        "name":"천둥의신순부 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"번개 34",
+        "rare":"6"
+    },
+    {
+        "name":"백룡순부 IV",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"굉순부[기호][1]",
+        "attack":"220",
+        "critical":"-15",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"실오라기 의부의황제",
+        "attack":"190",
+        "critical":"20",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"물 30",
+        "rare":"6"
+    },
+    {
+        "name":"홍련부 유니오리온",
+        "attack":"210",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"유탄병",
+        "option":"불 27",
+        "rare":"6"
+    },
+    {
+        "name":"다오라카스카 I",
+        "attack":"180",
+        "critical":"10",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"얼음 30",
+        "rare":"6"
+    },
+    {
+        "name":"테오스트라이커 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"폭파 38",
+        "rare":"6"
+    },
+    {
+        "name":"아르카나드로 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"유탄병",
+        "option":"독 33",
+        "rare":"6"
+    },
+    {
+        "name":"백룡순부 V[2]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"카무라닌자순부",
+        "attack":"190",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"디아루테미아",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"강속성병",
+        "option":"불 30",
+        "rare":"5"
+    },
+    {
+        "name":"그라스슈바리에",
+        "attack":"170",
+        "critical":"25",
+        "slot":"1 1 1",
+        "etc":"강속성병",
+        "option":"얼음 26",
+        "rare":"5"
+    },
+    {
+        "name":"왕순부 라이먼 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"번개 23",
+        "rare":"5"
+    },
+    {
+        "name":"와식-합장비틀기",
+        "attack":"210",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"유탄병",
+        "option":"물 18방어+20",
+        "rare":"5"
+    },
+    {
+        "name":"기간트암즈 III",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"독 25방어+20",
+        "rare":"5"
+    },
+    {
+        "name":"수호단의순부-용",
+        "attack":"230",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"5"
+    },
+    {
+        "name":"고샤가샤 II",
+        "attack":"190",
+        "critical":"-20",
+        "slot":"2 - -",
+        "etc":"유탄병",
+        "option":"얼음 11",
+        "rare":"5"
+    },
+    {
+        "name":"카이젤베어러",
+        "attack":"190",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"기사단증표순부 II",
+        "attack":"160",
+        "critical":"20",
+        "slot":"3 - -",
+        "etc":"강속성병",
+        "option":"번개 33",
+        "rare":"5"
+    },
+    {
+        "name":"호의부미즈니야도레루 II",
+        "attack":"170",
+        "critical":"15",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"물 24",
+        "rare":"5"
+    },
+    {
+        "name":"비뢰순부[오텐타]",
+        "attack":"180",
+        "critical":"15",
+        "slot":"1 1 -",
+        "etc":"유탄병",
+        "option":"번개 20",
+        "rare":"5"
+    },
+    {
+        "name":"히든암즈 II",
+        "attack":"180",
+        "critical":"35",
+        "slot":"2 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"본실트베일",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"리무스실트 I",
+        "attack":"190",
+        "critical":"-10",
+        "slot":"1 1 1",
+        "etc":"강속성병",
+        "option":"물 10",
+        "rare":"5"
+    },
+    {
+        "name":"염부 액셀리온 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"불 26",
+        "rare":"5"
+    },
+    {
+        "name":"몽환의멜로베로",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"유탄병",
+        "option":"수면 18",
+        "rare":"5"
+    },
+    {
+        "name":"인펙스베일",
+        "attack":"210",
+        "critical":"-10",
+        "slot":"1 1 -",
+        "etc":"유탄병",
+        "option":"독 14",
+        "rare":"5"
+    },
+    {
+        "name":"드래그베일 II",
+        "attack":"180",
+        "critical":"-10",
+        "slot":"2 1 -",
+        "etc":"강속성병",
+        "option":"용 24",
+        "rare":"5"
+    },
+    {
+        "name":"볼보로이볼세오",
+        "attack":"210",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"라운드휠러 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"마비 17",
+        "rare":"5"
+    },
+    {
+        "name":"금강순부 I",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"번개 10",
+        "rare":"5"
+    },
+    {
+        "name":"폭풍의신순부 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"용 6",
+        "rare":"5"
+    },
+    {
+        "name":"쿵떡순부절구[1]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"유탄병",
+        "option":"방어+20",
+        "rare":"5"
+    },
+    {
+        "name":"협인부르와가",
+        "attack":"180",
+        "critical":"15",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"용 22",
+        "rare":"5"
+    },
+    {
+        "name":"백룡순부 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"백룡순부 III",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"카무라철순부 V",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"디아루테미스 II",
+        "attack":"150",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"강속성병",
+        "option":"불 26",
+        "rare":"4"
+    },
+    {
+        "name":"바이스리터 III",
+        "attack":"130",
+        "critical":"25",
+        "slot":"1 1 -",
+        "etc":"강속성병",
+        "option":"얼음 22",
+        "rare":"4"
+    },
+    {
+        "name":"합장비틀기 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"유탄병",
+        "option":"물 15방어+10",
+        "rare":"4"
+    },
+    {
+        "name":"수호단철벽순부 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"4"
+    },
+    {
+        "name":"수호단철벽순부 III",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"4"
+    },
+    {
+        "name":"정예토벌대순부 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"기사단증표순부 I",
+        "attack":"150",
+        "critical":"15",
+        "slot":"3 - -",
+        "etc":"강속성병",
+        "option":"번개 29",
+        "rare":"4"
+    },
+    {
+        "name":"풍겸순부율시크",
+        "attack":"140",
+        "critical":"15",
+        "slot":"2 1 -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"골순부 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"포이즈너스베일 II",
+        "attack":"170",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"독 11",
+        "rare":"4"
+    },
+    {
+        "name":"드래그베일 I",
+        "attack":"170",
+        "critical":"-10",
+        "slot":"2 - -",
+        "etc":"강속성병",
+        "option":"용 12",
+        "rare":"4"
+    },
+    {
+        "name":"떡순부절굿공이 II",
+        "attack":"200",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"유탄병",
+        "option":"방어+15",
+        "rare":"4"
+    },
+    {
+        "name":"슈라프캇체",
+        "attack":"140",
+        "critical":"0",
+        "slot":"1 1 1",
+        "etc":"유탄병",
+        "option":"마비 28",
+        "rare":"4"
+    },
+    {
+        "name":"선부실드라드",
+        "attack":"150",
+        "critical":"0",
+        "slot":"3 1 -",
+        "etc":"강속성병",
+        "option":"물 27",
+        "rare":"4"
+    },
+    {
+        "name":"백룡순부 I",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"카무라철순부 IV",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"바이스리터 II",
+        "attack":"110",
+        "critical":"20",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"얼음 19",
+        "rare":"3"
+    },
+    {
+        "name":"왕순부 라이먼 I",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"번개 20",
+        "rare":"3"
+    },
+    {
+        "name":"기간트암즈 II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"독 23방어+15",
+        "rare":"3"
+    },
+    {
+        "name":"고샤가샤 I",
+        "attack":"160",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"얼음 9",
+        "rare":"3"
+    },
+    {
+        "name":"정예토벌대순부 I",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"렉스디바이드 I",
+        "attack":"160",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"호의부미즈니야도레루 I",
+        "attack":"110",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"물 21",
+        "rare":"3"
+    },
+    {
+        "name":"비뢰순부타츠카가치 II",
+        "attack":"140",
+        "critical":"15",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"번개 18",
+        "rare":"3"
+    },
+    {
+        "name":"히든암즈 I",
+        "attack":"120",
+        "critical":"30",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"골순부 I",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"염부 액셀리온 I",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"불 24",
+        "rare":"3"
+    },
+    {
+        "name":"멜로베로 II",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"수면 15",
+        "rare":"3"
+    },
+    {
+        "name":"볼보로무당카 II",
+        "attack":"170",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"마가순부[봉] I",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"폭파 20",
+        "rare":"3"
+    },
+    {
+        "name":"마가순부[봉] II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"폭파 23",
+        "rare":"3"
+    },
+    {
+        "name":"떡순부절굿공이 I",
+        "attack":"160",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+15",
+        "rare":"3"
+    },
+    {
+        "name":"커들캣 II",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"마비 24",
+        "rare":"3"
+    },
+    {
+        "name":"시조-와가 I",
+        "attack":"120",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"용 14",
+        "rare":"3"
+    },
+    {
+        "name":"시조-와가 II",
+        "attack":"130",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"용 17",
+        "rare":"3"
+    },
+    {
+        "name":"바이크베일 II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"물 22",
+        "rare":"3"
+    },
+    {
+        "name":"카무라철순부 III",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"디아루테미스 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"불 22",
+        "rare":"2"
+    },
+    {
+        "name":"바이스리터 I",
+        "attack":"90",
+        "critical":"20",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"얼음 17",
+        "rare":"2"
+    },
+    {
+        "name":"합장비틀기 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"물 13방어+10",
+        "rare":"2"
+    },
+    {
+        "name":"기간트암즈 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"독 22방어+15",
+        "rare":"2"
+    },
+    {
+        "name":"수호단철벽순부",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"2"
+    },
+    {
+        "name":"레가스피더",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"비뢰순부타츠카가치 I",
+        "attack":"100",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"번개 15",
+        "rare":"2"
+    },
+    {
+        "name":"바람의적순부 II",
+        "attack":"90",
+        "critical":"15",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"하드본암즈",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"멜로베로 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"수면 12",
+        "rare":"2"
+    },
+    {
+        "name":"포이즈너스베일 I",
+        "attack":"110",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"독 8",
+        "rare":"2"
+    },
+    {
+        "name":"볼보로무당카 I",
+        "attack":"120",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"라운드휠러 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"마비 15",
+        "rare":"2"
+    },
+    {
+        "name":"바이크베일 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"강속성병",
+        "option":"물 17",
+        "rare":"2"
+    },
+    {
+        "name":"카무라철순부 I",
+        "attack":"50",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"카무라철순부 II",
+        "attack":"60",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"수호단방어순부 I",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"방어+30",
+        "rare":"1"
+    },
+    {
+        "name":"로트스피더 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"로트스피더 II",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"바람의적순부 I",
+        "attack":"70",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"본암즈 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"본암즈 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"커들캣 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"유탄병",
+        "option":"마비 20",
+        "rare":"1"
+    }
+]

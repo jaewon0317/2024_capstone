@@ -1,0 +1,2540 @@
+[
+    {
+        "name":"카무라걸총창[1]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 2 -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"초열의 슈라이엔",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 - -백룡 1",
+        "etc":"7방사형 Lv7",
+        "option":"용 36",
+        "rare":"10"
+    },
+    {
+        "name":"파사의등창 이즈나토카",
+        "attack":"320",
+        "critical":"10",
+        "slot":"2 2 2백룡 1",
+        "etc":"7확산형 Lv7",
+        "option":"불 18",
+        "rare":"10"
+    },
+    {
+        "name":"날뛰는 황신불등창+",
+        "attack":"310",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"물 40",
+        "rare":"10"
+    },
+    {
+        "name":"칵투스헤를리히",
+        "attack":"300",
+        "critical":"15",
+        "slot":"4 1 1백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"불 51",
+        "rare":"10"
+    },
+    {
+        "name":"하이올트린데+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"- - -백룡 1",
+        "etc":"8일반형 Lv8",
+        "option":"독 37",
+        "rare":"10"
+    },
+    {
+        "name":"로젠헤를리히",
+        "attack":"310",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "etc":"7확산형 Lv7",
+        "option":"독 24",
+        "rare":"10"
+    },
+    {
+        "name":"에탕세채리엇",
+        "attack":"320",
+        "critical":"0",
+        "slot":"- - -백룡 3",
+        "etc":"7방사형 Lv7",
+        "option":"불 47",
+        "rare":"10"
+    },
+    {
+        "name":"사해총창 델크하픈",
+        "attack":"340",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"물 26",
+        "rare":"10"
+    },
+    {
+        "name":"진-왕아총창[진천]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"번개 48",
+        "rare":"10"
+    },
+    {
+        "name":"호아총창 네베케이프",
+        "attack":"290",
+        "critical":"40",
+        "slot":"1 1 -백룡 2",
+        "etc":"7확산형 Lv7",
+        "option":"얼음 45",
+        "rare":"10"
+    },
+    {
+        "name":"호황창 가발디오+[4]",
+        "attack":"340",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"8일반형 Lv8",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"빙륜총창 플레닐루니오",
+        "attack":"330",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"얼음 30",
+        "rare":"10"
+    },
+    {
+        "name":"월or워[1]",
+        "attack":"340",
+        "critical":"-35\/15",
+        "slot":"3 1 -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"용 50",
+        "rare":"10"
+    },
+    {
+        "name":"임페리얼오르든+",
+        "attack":"340",
+        "critical":"10",
+        "slot":"3 1 1백룡 3",
+        "etc":"7확산형 Lv7",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"잘람채리엇",
+        "attack":"310",
+        "critical":"30",
+        "slot":"1 - -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"번개 27",
+        "rare":"10"
+    },
+    {
+        "name":"독요총창 힐븐기어+",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 1 -백룡 1",
+        "etc":"7확산형 Lv7",
+        "option":"독 63",
+        "rare":"10"
+    },
+    {
+        "name":"각왕총창 이라혼+",
+        "attack":"360",
+        "critical":"-10",
+        "slot":"- - -백룡 2",
+        "etc":"7확산형 Lv7",
+        "option":"방어+10",
+        "rare":"10"
+    },
+    {
+        "name":"새벽빛의총창 실골리아",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"불 54",
+        "rare":"10"
+    },
+    {
+        "name":"빙채 보팔",
+        "attack":"340",
+        "critical":"0",
+        "slot":"4 - -백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"얼음 27",
+        "rare":"10"
+    },
+    {
+        "name":"D=레두프[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "etc":"6확산형 Lv6",
+        "option":"물 75",
+        "rare":"10"
+    },
+    {
+        "name":"빅토르=Y",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"불 77",
+        "rare":"10"
+    },
+    {
+        "name":"전총창 푸루푸루볼트+",
+        "attack":"320",
+        "critical":"10",
+        "slot":"3 1 -백룡 3",
+        "etc":"7방사형 Lv7",
+        "option":"번개 57",
+        "rare":"10"
+    },
+    {
+        "name":"적갑 캐논 샷+",
+        "attack":"330",
+        "critical":"-10",
+        "slot":"2 - -백룡 1",
+        "etc":"7방사형 Lv7",
+        "option":"마비 35",
+        "rare":"10"
+    },
+    {
+        "name":"면구총창 크래들",
+        "attack":"330",
+        "critical":"0",
+        "slot":"1 1 -백룡 1",
+        "etc":"7방사형 Lv7",
+        "option":"수면 34",
+        "rare":"10"
+    },
+    {
+        "name":"흉총창[서우]",
+        "attack":"350",
+        "critical":"-25",
+        "slot":"- - -백룡 3",
+        "etc":"7방사형 Lv7",
+        "option":"물 45",
+        "rare":"10"
+    },
+    {
+        "name":"만뢰총창[청영체]+",
+        "attack":"320",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"번개 38",
+        "rare":"10"
+    },
+    {
+        "name":"거강총창 기가도니아+",
+        "attack":"350",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"반총창 알다나브",
+        "attack":"320",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"시저캐논[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"8일반형 Lv8",
+        "option":"물 32방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"각은의 격창",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 4 4백룡 3",
+        "etc":"8일반형 Lv8",
+        "option":"용 45",
+        "rare":"10"
+    },
+    {
+        "name":"무명총창[묘제]",
+        "attack":"300",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "etc":"6방사형 Lv6",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"만염총창 로긴하스타+",
+        "attack":"350",
+        "critical":"-15",
+        "slot":"2 1 -백룡 2",
+        "etc":"7확산형 Lv7",
+        "option":"불 30",
+        "rare":"10"
+    },
+    {
+        "name":"볼보로제뮬라",
+        "attack":"350",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"방어+20",
+        "rare":"10"
+    },
+    {
+        "name":"굉총창[대호포]+",
+        "attack":"350",
+        "critical":"-15",
+        "slot":"1 - -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"울크스라비네",
+        "attack":"340",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"얼음 42",
+        "rare":"10"
+    },
+    {
+        "name":"수포 드로스로메오+",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 1 1백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"물 58방어+20",
+        "rare":"10"
+    },
+    {
+        "name":"거괴총창 고르트라스",
+        "attack":"360",
+        "critical":"0",
+        "slot":"4 2 1백룡 3",
+        "etc":"6확산형 Lv6",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"폴리-드-에테르네",
+        "attack":"300",
+        "critical":"25",
+        "slot":"2 1 1백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"불 33",
+        "rare":"10"
+    },
+    {
+        "name":"토르치-다-라바타[5]",
+        "attack":"300",
+        "critical":"30",
+        "slot":"3 1 1백룡 2",
+        "etc":"8일반형 Lv8",
+        "option":"폭파 50",
+        "rare":"10"
+    },
+    {
+        "name":"피오레트레스누아르",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 1 -백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"용 39",
+        "rare":"10"
+    },
+    {
+        "name":"피오레트레스블랑",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"7일반형 Lv7",
+        "option":"얼음 37",
+        "rare":"10"
+    },
+    {
+        "name":"피오레트레스베르",
+        "attack":"320",
+        "critical":"0",
+        "slot":"1 1 1백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"마비 21",
+        "rare":"10"
+    },
+    {
+        "name":"개원귀포창 레골포",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 2 -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"폭파 41",
+        "rare":"10"
+    },
+    {
+        "name":"암of애러건",
+        "attack":"320",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"용 26",
+        "rare":"10"
+    },
+    {
+        "name":"THE포트리스",
+        "attack":"300",
+        "critical":"35",
+        "slot":"- - -백룡 1",
+        "etc":"7확산형 Lv7",
+        "option":"용 48",
+        "rare":"10"
+    },
+    {
+        "name":"진뢰귀총창 드라간",
+        "attack":"350",
+        "critical":"-10",
+        "slot":"3 - -백룡 1",
+        "etc":"7확산형 Lv7",
+        "option":"번개 26",
+        "rare":"10"
+    },
+    {
+        "name":"귀신총창 드래기건",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 2 -백룡 1",
+        "etc":"7일반형 Lv7",
+        "option":"번개 16",
+        "rare":"10"
+    },
+    {
+        "name":"신폭-풍운천경",
+        "attack":"330",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"7확산형 Lv7",
+        "option":"용 18",
+        "rare":"10"
+    },
+    {
+        "name":"신폭-뇌화천경",
+        "attack":"310",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"번개 70",
+        "rare":"10"
+    },
+    {
+        "name":"폭린포창 바젤번",
+        "attack":"330",
+        "critical":"-10",
+        "slot":"2 1 -백룡 3",
+        "etc":"7확산형 Lv7",
+        "option":"폭파 21",
+        "rare":"10"
+    },
+    {
+        "name":"다오라템페스타",
+        "attack":"320",
+        "critical":"10",
+        "slot":"1 - -백룡 3",
+        "etc":"7방사형 Lv7",
+        "option":"얼음 57",
+        "rare":"10"
+    },
+    {
+        "name":"베넘드파르푕",
+        "attack":"330",
+        "critical":"0",
+        "slot":"4 - -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"독 41",
+        "rare":"10"
+    },
+    {
+        "name":"혁절의열익 카페테이라",
+        "attack":"330",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"용 55",
+        "rare":"10"
+    },
+    {
+        "name":"명연총창 크라티스[2]",
+        "attack":"340",
+        "critical":"-25",
+        "slot":"- - -백룡 3",
+        "etc":"8확산형 Lv8",
+        "option":"용 15",
+        "rare":"10"
+    },
+    {
+        "name":"포견총창 가루로아[3]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "etc":"8방사형 Lv8",
+        "option":"방어+30",
+        "rare":"10"
+    },
+    {
+        "name":"파동포수수[8]",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 2 1백룡 3",
+        "etc":"8확산형 Lv8",
+        "option":"",
+        "rare":"10"
+    },
+    {
+        "name":"몽신총창 마이트래디",
+        "attack":"340",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"수면 28방어+20",
+        "rare":"10"
+    },
+    {
+        "name":"왕국기사총창 플레지+[2]",
+        "attack":"320",
+        "critical":"10",
+        "slot":"2 1 -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"방어+50",
+        "rare":"10"
+    },
+    {
+        "name":"오르도마키나-GL",
+        "attack":"330",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"수면 16",
+        "rare":"10"
+    },
+    {
+        "name":"퀸버스트",
+        "attack":"330",
+        "critical":"10",
+        "slot":"2 - -백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"독 48",
+        "rare":"10"
+    },
+    {
+        "name":"실버루크",
+        "attack":"300",
+        "critical":"35",
+        "slot":"3 - -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"불 61",
+        "rare":"10"
+    },
+    {
+        "name":"칠성총창[옥충]",
+        "attack":"340",
+        "critical":"0",
+        "slot":"4 2 -백룡 1",
+        "etc":"7방사형 Lv7",
+        "option":"독 14",
+        "rare":"10"
+    },
+    {
+        "name":"바젤프라이드",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"2 1 -백룡 3",
+        "etc":"7확산형 Lv7",
+        "option":"폭파 24",
+        "rare":"10"
+    },
+    {
+        "name":"듀크바요넷[1]",
+        "attack":"320",
+        "critical":"0",
+        "slot":"4 - -백룡 1",
+        "etc":"7방사형 Lv7",
+        "option":"용 32",
+        "rare":"9"
+    },
+    {
+        "name":"날뛰는 황창의수호+",
+        "attack":"290",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"5방사형 Lv5",
+        "option":"물 33",
+        "rare":"9"
+    },
+    {
+        "name":"날뛰는 황신불등창",
+        "attack":"300",
+        "critical":"15",
+        "slot":"2 - -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"물 37",
+        "rare":"9"
+    },
+    {
+        "name":"하이올트린데",
+        "attack":"300",
+        "critical":"0",
+        "slot":"- - -백룡 1",
+        "etc":"7일반형 Lv7",
+        "option":"독 35",
+        "rare":"9"
+    },
+    {
+        "name":"로젠카노네",
+        "attack":"290",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "etc":"5확산형 Lv5",
+        "option":"독 16",
+        "rare":"9"
+    },
+    {
+        "name":"로젠카노네+",
+        "attack":"300",
+        "critical":"20",
+        "slot":"1 - -백룡 1",
+        "etc":"6확산형 Lv6",
+        "option":"독 20",
+        "rare":"9"
+    },
+    {
+        "name":"크림슨루크+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"- - -백룡 3",
+        "etc":"6방사형 Lv6",
+        "option":"불 44",
+        "rare":"9"
+    },
+    {
+        "name":"왕아총창[화뢰]+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"6일반형 Lv6",
+        "option":"번개 45",
+        "rare":"9"
+    },
+    {
+        "name":"엄버스트레인+",
+        "attack":"270",
+        "critical":"40",
+        "slot":"1 1 -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"얼음 37",
+        "rare":"9"
+    },
+    {
+        "name":"차가운 달의 총창",
+        "attack":"300",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"얼음 21",
+        "rare":"9"
+    },
+    {
+        "name":"차가운 달의 총창+",
+        "attack":"310",
+        "critical":"0",
+        "slot":"1 1 -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"얼음 26",
+        "rare":"9"
+    },
+    {
+        "name":"임페리얼오르든",
+        "attack":"320",
+        "critical":"10",
+        "slot":"2 1 1백룡 3",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"퐁세채리엇",
+        "attack":"290",
+        "critical":"30",
+        "slot":"1 - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"번개 21",
+        "rare":"9"
+    },
+    {
+        "name":"퐁세채리엇+",
+        "attack":"300",
+        "critical":"30",
+        "slot":"1 - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"번개 24",
+        "rare":"9"
+    },
+    {
+        "name":"디아블루갈지트+",
+        "attack":"330",
+        "critical":"-10",
+        "slot":"- - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"방어+10",
+        "rare":"9"
+    },
+    {
+        "name":"각왕총창 이라혼",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"- - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"방어+10",
+        "rare":"9"
+    },
+    {
+        "name":"D=링+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "etc":"6확산형 Lv6",
+        "option":"물 70",
+        "rare":"9"
+    },
+    {
+        "name":"Y코우로",
+        "attack":"290",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"5일반형 Lv5",
+        "option":"불 72",
+        "rare":"9"
+    },
+    {
+        "name":"Y코우로+",
+        "attack":"300",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"6일반형 Lv6",
+        "option":"불 74",
+        "rare":"9"
+    },
+    {
+        "name":"아스파알다나브",
+        "attack":"300",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"5일반형 Lv5",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"아스파알다나브+",
+        "attack":"310",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"6일반형 Lv6",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"야총창[신월]+",
+        "attack":"280",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "etc":"6방사형 Lv6",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"만염총창 로긴하스타",
+        "attack":"330",
+        "critical":"-15",
+        "slot":"2 1 -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"불 28",
+        "rare":"9"
+    },
+    {
+        "name":"굉총창[호포]+",
+        "attack":"330",
+        "critical":"-15",
+        "slot":"1 - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"굉총창[대호포]",
+        "attack":"340",
+        "critical":"-15",
+        "slot":"1 - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"고르무-베넷+",
+        "attack":"330",
+        "critical":"0",
+        "slot":"3 2 1백룡 3",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"9"
+    },
+    {
+        "name":"뮤르-드-네피라+",
+        "attack":"290",
+        "critical":"25",
+        "slot":"2 1 1백룡 2",
+        "etc":"6일반형 Lv6",
+        "option":"불 32",
+        "rare":"9"
+    },
+    {
+        "name":"에칼라트의 등총창",
+        "attack":"280",
+        "critical":"30",
+        "slot":"2 1 1백룡 2",
+        "etc":"6일반형 Lv6",
+        "option":"폭파 41",
+        "rare":"9"
+    },
+    {
+        "name":"에칼라트의 등총창+",
+        "attack":"290",
+        "critical":"30",
+        "slot":"2 1 1백룡 2",
+        "etc":"7일반형 Lv7",
+        "option":"폭파 45",
+        "rare":"9"
+    },
+    {
+        "name":"마가대유령포창 레콜",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"7방사형 Lv7",
+        "option":"폭파 38",
+        "rare":"9"
+    },
+    {
+        "name":"암of티런",
+        "attack":"290",
+        "critical":"20",
+        "slot":"1 - -백룡 2",
+        "etc":"5일반형 Lv5",
+        "option":"용 22",
+        "rare":"9"
+    },
+    {
+        "name":"암of티런+",
+        "attack":"310",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"6일반형 Lv6",
+        "option":"용 24",
+        "rare":"9"
+    },
+    {
+        "name":"THE임펄스",
+        "attack":"290",
+        "critical":"35",
+        "slot":"- - -백룡 1",
+        "etc":"6확산형 Lv6",
+        "option":"용 40",
+        "rare":"9"
+    },
+    {
+        "name":"뇌귀총창 드라간+[1]",
+        "attack":"340",
+        "critical":"-10",
+        "slot":"3 - -백룡 1",
+        "etc":"7확산형 Lv7",
+        "option":"번개 24",
+        "rare":"9"
+    },
+    {
+        "name":"다오라블리지아+",
+        "attack":"310",
+        "critical":"5",
+        "slot":"1 - -백룡 3",
+        "etc":"6방사형 Lv6",
+        "option":"얼음 50",
+        "rare":"9"
+    },
+    {
+        "name":"베넘드투알레트+",
+        "attack":"320",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"독 36",
+        "rare":"9"
+    },
+    {
+        "name":"왕국기사총창 플레지",
+        "attack":"300",
+        "critical":"10",
+        "slot":"2 - -백룡 2",
+        "etc":"6일반형 Lv6",
+        "option":"방어+50",
+        "rare":"9"
+    },
+    {
+        "name":"카무라무총창",
+        "attack":"250",
+        "critical":"0",
+        "slot":"4 1 -백룡 2",
+        "etc":"4일반형 Lv4",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"카무라무총창+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"4 1 -백룡 2",
+        "etc":"5일반형 Lv5",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"올트린데+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"- - -백룡 1",
+        "etc":"6일반형 Lv6",
+        "option":"독 31",
+        "rare":"8"
+    },
+    {
+        "name":"사총창 델크스보라+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"3확산형 Lv3",
+        "option":"물 23",
+        "rare":"8"
+    },
+    {
+        "name":"엄버스트레인",
+        "attack":"250",
+        "critical":"40",
+        "slot":"1 1 -백룡 2",
+        "etc":"6확산형 Lv6",
+        "option":"얼음 31",
+        "rare":"8"
+    },
+    {
+        "name":"임페리얼가더+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"4일반형 Lv4",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"호황창 가발디오",
+        "attack":"310",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"6일반형 Lv6",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"어드미럴파르도+",
+        "attack":"260",
+        "critical":"10",
+        "slot":"2 1 1백룡 3",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"독요총창 힐브고라+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 1 -백룡 1",
+        "etc":"5확산형 Lv5",
+        "option":"독 51",
+        "rare":"8"
+    },
+    {
+        "name":"독요총창 힐븐기어",
+        "attack":"300",
+        "critical":"0",
+        "slot":"2 1 -백룡 1",
+        "etc":"6확산형 Lv6",
+        "option":"독 56",
+        "rare":"8"
+    },
+    {
+        "name":"새벽달의총창 실티스",
+        "attack":"240",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"4일반형 Lv4",
+        "option":"불 42",
+        "rare":"8"
+    },
+    {
+        "name":"새벽달의총창 실티스+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"5일반형 Lv5",
+        "option":"불 45",
+        "rare":"8"
+    },
+    {
+        "name":"D=링",
+        "attack":"280",
+        "critical":"0",
+        "slot":"2 1 -백룡 3",
+        "etc":"5확산형 Lv5",
+        "option":"물 65",
+        "rare":"8"
+    },
+    {
+        "name":"전총창 푸루볼트+",
+        "attack":"250",
+        "critical":"10",
+        "slot":"2 1 -백룡 3",
+        "etc":"5방사형 Lv5",
+        "option":"번개 42",
+        "rare":"8"
+    },
+    {
+        "name":"전총창 푸루푸루볼트",
+        "attack":"280",
+        "critical":"10",
+        "slot":"2 1 -백룡 3",
+        "etc":"5방사형 Lv5",
+        "option":"번개 46",
+        "rare":"8"
+    },
+    {
+        "name":"브레이크런아웃+",
+        "attack":"240",
+        "critical":"-10",
+        "slot":"2 - -백룡 1",
+        "etc":"4방사형 Lv4",
+        "option":"마비 31",
+        "rare":"8"
+    },
+    {
+        "name":"적갑 캐논 샷",
+        "attack":"260",
+        "critical":"-10",
+        "slot":"2 - -백룡 1",
+        "etc":"5방사형 Lv5",
+        "option":"마비 33",
+        "rare":"8"
+    },
+    {
+        "name":"면구총창 럴러바이트+",
+        "attack":"240",
+        "critical":"0",
+        "slot":"1 1 -백룡 1",
+        "etc":"5방사형 Lv5",
+        "option":"수면 29",
+        "rare":"8"
+    },
+    {
+        "name":"비뢰총창[청영체]+",
+        "attack":"240",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"5방사형 Lv5",
+        "option":"번개 33",
+        "rare":"8"
+    },
+    {
+        "name":"만뢰총창[청영체]",
+        "attack":"270",
+        "critical":"20",
+        "slot":"2 - -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"번개 36",
+        "rare":"8"
+    },
+    {
+        "name":"강총창 콜로서스+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"5방사형 Lv5",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"거강총창 기가도니아",
+        "attack":"310",
+        "critical":"0",
+        "slot":"- - -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"시저건랜스",
+        "attack":"240",
+        "critical":"0",
+        "slot":"1 - -백룡 3",
+        "etc":"6일반형 Lv6",
+        "option":"물 24방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"시저건랜스+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"1 - -백룡 3",
+        "etc":"6일반형 Lv6",
+        "option":"물 28방어+25",
+        "rare":"8"
+    },
+    {
+        "name":"야총창[신월]",
+        "attack":"270",
+        "critical":"40",
+        "slot":"2 - -백룡 1",
+        "etc":"5방사형 Lv5",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"만악총창플람하스타+",
+        "attack":"280",
+        "critical":"-15",
+        "slot":"2 1 -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"불 26",
+        "rare":"8"
+    },
+    {
+        "name":"볼보로터프데스",
+        "attack":"270",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "etc":"5방사형 Lv5",
+        "option":"방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"볼보로터프데스+",
+        "attack":"290",
+        "critical":"-20",
+        "slot":"- - -백룡 2",
+        "etc":"5방사형 Lv5",
+        "option":"방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"울크스레이+",
+        "attack":"250",
+        "critical":"0",
+        "slot":"2 - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"얼음 36",
+        "rare":"8"
+    },
+    {
+        "name":"유관총창 드로스모제+",
+        "attack":"240",
+        "critical":"0",
+        "slot":"2 1 1백룡 3",
+        "etc":"5일반형 Lv5",
+        "option":"물 47방어+15",
+        "rare":"8"
+    },
+    {
+        "name":"수포 드로스로메오",
+        "attack":"290",
+        "critical":"0",
+        "slot":"2 1 1백룡 3",
+        "etc":"5일반형 Lv5",
+        "option":"물 53방어+15",
+        "rare":"8"
+    },
+    {
+        "name":"고르무-베넷",
+        "attack":"310",
+        "critical":"0",
+        "slot":"3 1 1백룡 3",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"뮤르-드-네피라",
+        "attack":"270",
+        "critical":"25",
+        "slot":"2 1 1백룡 2",
+        "etc":"5일반형 Lv5",
+        "option":"불 31",
+        "rare":"8"
+    },
+    {
+        "name":"피오레도스누아르",
+        "attack":"260",
+        "critical":"0",
+        "slot":"3 1 -백룡 3",
+        "etc":"5일반형 Lv5",
+        "option":"용 32",
+        "rare":"8"
+    },
+    {
+        "name":"피오레도스블랑",
+        "attack":"260",
+        "critical":"0",
+        "slot":"3 - -백룡 3",
+        "etc":"5일반형 Lv5",
+        "option":"얼음 28",
+        "rare":"8"
+    },
+    {
+        "name":"피오레도스베르",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 1 1백룡 2",
+        "etc":"5일반형 Lv5",
+        "option":"마비 20",
+        "rare":"8"
+    },
+    {
+        "name":"마가유령포창 레콜+",
+        "attack":"290",
+        "critical":"0",
+        "slot":"2 1 -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"폭파 35",
+        "rare":"8"
+    },
+    {
+        "name":"가루하울+[1]",
+        "attack":"260",
+        "critical":"0",
+        "slot":"1 - -백룡 2",
+        "etc":"6방사형 Lv6",
+        "option":"방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"대포수수+",
+        "attack":"270",
+        "critical":"0",
+        "slot":"2 - -백룡 3",
+        "etc":"6확산형 Lv6",
+        "option":"",
+        "rare":"8"
+    },
+    {
+        "name":"수패총창 미틸러스+",
+        "attack":"260",
+        "critical":"0",
+        "slot":"3 - -백룡 2",
+        "etc":"5확산형 Lv5",
+        "option":"수면 24방어+20",
+        "rare":"8"
+    },
+    {
+        "name":"토슈-드-네피라[3]",
+        "attack":"170",
+        "critical":"25",
+        "slot":"2 1 1",
+        "etc":"5일반형 Lv5",
+        "option":"불 27",
+        "rare":"7"
+    },
+    {
+        "name":"폭린포창바젤아람[1]",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"4확산형 Lv4",
+        "option":"폭파 16",
+        "rare":"7"
+    },
+    {
+        "name":"뇌귀총창 드라간",
+        "attack":"220",
+        "critical":"-10",
+        "slot":"3 - -",
+        "etc":"4확산형 Lv4",
+        "option":"번개 20",
+        "rare":"7"
+    },
+    {
+        "name":"신연의풍폭",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4확산형 Lv4",
+        "option":"용 15",
+        "rare":"7"
+    },
+    {
+        "name":"신원의뇌폭",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4일반형 Lv4",
+        "option":"번개 41",
+        "rare":"7"
+    },
+    {
+        "name":"다오라블리지아",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"5방사형 Lv5",
+        "option":"얼음 44",
+        "rare":"7"
+    },
+    {
+        "name":"베넘드투알레트[2]",
+        "attack":"230",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"3방사형 Lv3",
+        "option":"독 31",
+        "rare":"7"
+    },
+    {
+        "name":"용천총창 베네트루이",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"4방사형 Lv4",
+        "option":"용 38",
+        "rare":"7"
+    },
+    {
+        "name":"백룡총창[일념화생][5]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"7"
+    },
+    {
+        "name":"올트린데[2]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"5일반형 Lv5",
+        "option":"독 26",
+        "rare":"6"
+    },
+    {
+        "name":"레드루크 II",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4방사형 Lv4",
+        "option":"불 35",
+        "rare":"6"
+    },
+    {
+        "name":"왕아총창[화뢰]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"4일반형 Lv4",
+        "option":"번개 32",
+        "rare":"6"
+    },
+    {
+        "name":"어드미럴파르도[3]",
+        "attack":"210",
+        "critical":"10",
+        "slot":"2 1 1",
+        "etc":"4확산형 Lv4",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"디아블루지트 II",
+        "attack":"240",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"3확산형 Lv3",
+        "option":"방어+10",
+        "rare":"6"
+    },
+    {
+        "name":"디아블루갈지트[4]",
+        "attack":"250",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"4확산형 Lv4",
+        "option":"방어+10",
+        "rare":"6"
+    },
+    {
+        "name":"D네이 II",
+        "attack":"160",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"4확산형 Lv4",
+        "option":"물 45",
+        "rare":"6"
+    },
+    {
+        "name":"날뛰는 황창의수호",
+        "attack":"210",
+        "critical":"15",
+        "slot":"1 - -",
+        "etc":"4방사형 Lv4",
+        "option":"물 24",
+        "rare":"6"
+    },
+    {
+        "name":"크림슨루크[1]",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4방사형 Lv4",
+        "option":"불 37",
+        "rare":"6"
+    },
+    {
+        "name":"엄버마치",
+        "attack":"190",
+        "critical":"40",
+        "slot":"1 1 -",
+        "etc":"4확산형 Lv4",
+        "option":"얼음 26",
+        "rare":"6"
+    },
+    {
+        "name":"독요총창 힐브고라",
+        "attack":"190",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"4확산형 Lv4",
+        "option":"독 45",
+        "rare":"6"
+    },
+    {
+        "name":"브레이크런아웃",
+        "attack":"180",
+        "critical":"-10",
+        "slot":"2 - -",
+        "etc":"4방사형 Lv4",
+        "option":"마비 28",
+        "rare":"6"
+    },
+    {
+        "name":"둠즈D[3]",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"5확산형 Lv5",
+        "option":"물 46",
+        "rare":"6"
+    },
+    {
+        "name":"야총창[잔월]",
+        "attack":"180",
+        "critical":"40",
+        "slot":"2 - -",
+        "etc":"4방사형 Lv4",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"굉총창[호포]",
+        "attack":"230",
+        "critical":"-15",
+        "slot":"1 - -",
+        "etc":"4확산형 Lv4",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"폭린의열포창 I",
+        "attack":"190",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"폭파 12",
+        "rare":"6"
+    },
+    {
+        "name":"폭린의열포창 II",
+        "attack":"210",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"3확산형 Lv3",
+        "option":"폭파 14",
+        "rare":"6"
+    },
+    {
+        "name":"비뢰총창[청영체]",
+        "attack":"200",
+        "critical":"20",
+        "slot":"2 - -",
+        "etc":"4방사형 Lv4",
+        "option":"번개 27",
+        "rare":"6"
+    },
+    {
+        "name":"강빙총창 I[1]",
+        "attack":"160",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"5방사형 Lv5",
+        "option":"얼음 42",
+        "rare":"6"
+    },
+    {
+        "name":"베넘드코론 I[1]",
+        "attack":"220",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"3방사형 Lv3",
+        "option":"독 27",
+        "rare":"6"
+    },
+    {
+        "name":"백룡총창 V",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"히든건랜스 II",
+        "attack":"170",
+        "critical":"40",
+        "slot":"2 - -",
+        "etc":"4방사형 Lv4",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"만악총창플람하스타",
+        "attack":"230",
+        "critical":"-15",
+        "slot":"2 1 -",
+        "etc":"4확산형 Lv4",
+        "option":"불 24",
+        "rare":"6"
+    },
+    {
+        "name":"티가버스트 II",
+        "attack":"220",
+        "critical":"-15",
+        "slot":"1 - -",
+        "etc":"4확산형 Lv4",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"울크스레이",
+        "attack":"210",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"4확산형 Lv4",
+        "option":"얼음 29",
+        "rare":"6"
+    },
+    {
+        "name":"유관총창 드로스모제",
+        "attack":"180",
+        "critical":"0",
+        "slot":"2 1 1",
+        "etc":"4일반형 Lv4",
+        "option":"물 37방어+15",
+        "rare":"6"
+    },
+    {
+        "name":"화려한토슈캐논 I",
+        "attack":"150",
+        "critical":"25",
+        "slot":"2 1 1",
+        "etc":"3일반형 Lv3",
+        "option":"불 22",
+        "rare":"6"
+    },
+    {
+        "name":"화려한토슈캐논 II",
+        "attack":"160",
+        "critical":"25",
+        "slot":"2 1 1",
+        "etc":"4일반형 Lv4",
+        "option":"불 25",
+        "rare":"6"
+    },
+    {
+        "name":"피오레우노누아르",
+        "attack":"200",
+        "critical":"0",
+        "slot":"3 1 -",
+        "etc":"4일반형 Lv4",
+        "option":"용 26",
+        "rare":"6"
+    },
+    {
+        "name":"마가유령포창 레콜",
+        "attack":"200",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"4방사형 Lv4",
+        "option":"폭파 33",
+        "rare":"6"
+    },
+    {
+        "name":"귀총창 II",
+        "attack":"210",
+        "critical":"-10",
+        "slot":"3 - -",
+        "etc":"4확산형 Lv4",
+        "option":"번개 18",
+        "rare":"6"
+    },
+    {
+        "name":"폭풍의신총창 II[1]",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4확산형 Lv4",
+        "option":"용 13",
+        "rare":"6"
+    },
+    {
+        "name":"천둥의신총창 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4일반형 Lv4",
+        "option":"번개 35",
+        "rare":"6"
+    },
+    {
+        "name":"대포수수[2]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"5확산형 Lv5",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"백룡총창 IV",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"6"
+    },
+    {
+        "name":"혁익의총창 I",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"4방사형 Lv4",
+        "option":"용 35",
+        "rare":"6"
+    },
+    {
+        "name":"수호단의총창-용",
+        "attack":"230",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4방사형 Lv4",
+        "option":"방어+30",
+        "rare":"5"
+    },
+    {
+        "name":"카무라닌자총창",
+        "attack":"190",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"4일반형 Lv4",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"호등창우키요노야미오 II",
+        "attack":"190",
+        "critical":"10",
+        "slot":"1 - -",
+        "etc":"4방사형 Lv4",
+        "option":"물 20",
+        "rare":"5"
+    },
+    {
+        "name":"프린세스버스트 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4일반형 Lv4",
+        "option":"독 21",
+        "rare":"5"
+    },
+    {
+        "name":"레드루크 I",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3방사형 Lv3",
+        "option":"불 33",
+        "rare":"5"
+    },
+    {
+        "name":"사총창 델크스보라",
+        "attack":"190",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"2확산형 Lv2",
+        "option":"물 18",
+        "rare":"5"
+    },
+    {
+        "name":"왕총창 고우라이 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"3일반형 Lv3",
+        "option":"번개 30",
+        "rare":"5"
+    },
+    {
+        "name":"듀얼투스 II",
+        "attack":"160",
+        "critical":"35",
+        "slot":"1 1 -",
+        "etc":"4확산형 Lv4",
+        "option":"얼음 24",
+        "rare":"5"
+    },
+    {
+        "name":"임페리얼가더",
+        "attack":"190",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"4일반형 Lv4",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"제너럴파르도 II",
+        "attack":"170",
+        "critical":"10",
+        "slot":"2 1 1",
+        "etc":"3확산형 Lv3",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"힐버건랜스 I",
+        "attack":"160",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"3확산형 Lv3",
+        "option":"독 34",
+        "rare":"5"
+    },
+    {
+        "name":"힐버건랜스 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 1 -",
+        "etc":"4확산형 Lv4",
+        "option":"독 40",
+        "rare":"5"
+    },
+    {
+        "name":"새벽의총창 실엑스",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"4일반형 Lv4",
+        "option":"불 29",
+        "rare":"5"
+    },
+    {
+        "name":"브레이크샷 II",
+        "attack":"160",
+        "critical":"-10",
+        "slot":"2 - -",
+        "etc":"3방사형 Lv3",
+        "option":"마비 26",
+        "rare":"5"
+    },
+    {
+        "name":"면구총창 럴러바이트",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"4방사형 Lv4",
+        "option":"수면 27",
+        "rare":"5"
+    },
+    {
+        "name":"비뢰총창테츠카가치 II",
+        "attack":"180",
+        "critical":"15",
+        "slot":"2 - -",
+        "etc":"3방사형 Lv3",
+        "option":"번개 24",
+        "rare":"5"
+    },
+    {
+        "name":"강총창 콜로서스",
+        "attack":"200",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4방사형 Lv4",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"히든건랜스 I",
+        "attack":"160",
+        "critical":"40",
+        "slot":"2 - -",
+        "etc":"3방사형 Lv3",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"플람엘하스타 III",
+        "attack":"210",
+        "critical":"-15",
+        "slot":"2 1 -",
+        "etc":"3확산형 Lv3",
+        "option":"불 21",
+        "rare":"5"
+    },
+    {
+        "name":"볼보로보든",
+        "attack":"200",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"4방사형 Lv4",
+        "option":"방어+20",
+        "rare":"5"
+    },
+    {
+        "name":"드로스하푼 III",
+        "attack":"160",
+        "critical":"0",
+        "slot":"2 1 1",
+        "etc":"3일반형 Lv3",
+        "option":"물 35방어+15",
+        "rare":"5"
+    },
+    {
+        "name":"피오레세로누아르 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"3 1 -",
+        "etc":"3일반형 Lv3",
+        "option":"용 23",
+        "rare":"5"
+    },
+    {
+        "name":"피오레우노블랑",
+        "attack":"180",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"4일반형 Lv4",
+        "option":"얼음 20",
+        "rare":"5"
+    },
+    {
+        "name":"귀총창 I",
+        "attack":"200",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"3확산형 Lv3",
+        "option":"번개 16",
+        "rare":"5"
+    },
+    {
+        "name":"폭풍의신총창 I",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3확산형 Lv3",
+        "option":"용 11",
+        "rare":"5"
+    },
+    {
+        "name":"가루하울[1]",
+        "attack":"180",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"5방사형 Lv5",
+        "option":"방어+10",
+        "rare":"5"
+    },
+    {
+        "name":"포수수 I",
+        "attack":"160",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"4확산형 Lv4",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"포수수 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"4확산형 Lv4",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"수패총창 미틸러스",
+        "attack":"190",
+        "critical":"0",
+        "slot":"3 - -",
+        "etc":"3확산형 Lv3",
+        "option":"수면 20방어+20",
+        "rare":"5"
+    },
+    {
+        "name":"백룡총창 II",
+        "attack":"170",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"백룡총창 III",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"5"
+    },
+    {
+        "name":"수호단철벽총창 II",
+        "attack":"190",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3방사형 Lv3",
+        "option":"방어+30",
+        "rare":"4"
+    },
+    {
+        "name":"수호단철벽총창 III",
+        "attack":"210",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"4방사형 Lv4",
+        "option":"방어+30",
+        "rare":"4"
+    },
+    {
+        "name":"카무라철총창 V",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"3일반형 Lv3",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"토벌대정식총창 II",
+        "attack":"160",
+        "critical":"0",
+        "slot":"1 - -",
+        "etc":"3일반형 Lv3",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"제너럴파르도 I",
+        "attack":"150",
+        "critical":"10",
+        "slot":"2 1 1",
+        "etc":"3확산형 Lv3",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"시름스개링 III",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"3일반형 Lv3",
+        "option":"불 27",
+        "rare":"4"
+    },
+    {
+        "name":"전총창 푸루볼트",
+        "attack":"170",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"3방사형 Lv3",
+        "option":"번개 17",
+        "rare":"4"
+    },
+    {
+        "name":"바기건랜스 III",
+        "attack":"140",
+        "critical":"0",
+        "slot":"1 1 -",
+        "etc":"3방사형 Lv3",
+        "option":"수면 25",
+        "rare":"4"
+    },
+    {
+        "name":"골렘건랜스 II",
+        "attack":"180",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3방사형 Lv3",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"울크스키 III",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 - -",
+        "etc":"3확산형 Lv3",
+        "option":"얼음 27",
+        "rare":"4"
+    },
+    {
+        "name":"드로스하푼 II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"1 1 1",
+        "etc":"3일반형 Lv3",
+        "option":"물 33방어+10",
+        "rare":"4"
+    },
+    {
+        "name":"피오레우노",
+        "attack":"150",
+        "critical":"0",
+        "slot":"2 1 1",
+        "etc":"3일반형 Lv3",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"피오레세로누아르 I",
+        "attack":"150",
+        "critical":"0",
+        "slot":"3 1 -",
+        "etc":"3일반형 Lv3",
+        "option":"용 21",
+        "rare":"4"
+    },
+    {
+        "name":"피오레우노베르",
+        "attack":"140",
+        "critical":"0",
+        "slot":"1 1 1",
+        "etc":"3일반형 Lv3",
+        "option":"마비 19",
+        "rare":"4"
+    },
+    {
+        "name":"백룡총창 I",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"4"
+    },
+    {
+        "name":"카무라철총창 IV",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"호등창우키요노야미오 I",
+        "attack":"120",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"물 15",
+        "rare":"3"
+    },
+    {
+        "name":"왕총창 고우라이 I",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"번개 28",
+        "rare":"3"
+    },
+    {
+        "name":"토벌대정식총창 I",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"디아블루지트 I",
+        "attack":"160",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"3확산형 Lv3",
+        "option":"방어+10",
+        "rare":"3"
+    },
+    {
+        "name":"D네이 I",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"물 40",
+        "rare":"3"
+    },
+    {
+        "name":"푸루볼티지 II",
+        "attack":"150",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"번개 15",
+        "rare":"3"
+    },
+    {
+        "name":"골렘건랜스 I",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"플람엘하스타 I",
+        "attack":"140",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"불 15",
+        "rare":"3"
+    },
+    {
+        "name":"플람엘하스타 II",
+        "attack":"160",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"3확산형 Lv3",
+        "option":"불 17",
+        "rare":"3"
+    },
+    {
+        "name":"티가버스트 I",
+        "attack":"150",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"",
+        "rare":"3"
+    },
+    {
+        "name":"울크스키 II",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"얼음 25",
+        "rare":"3"
+    },
+    {
+        "name":"피오레세로블랑 II",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3일반형 Lv3",
+        "option":"얼음 17",
+        "rare":"3"
+    },
+    {
+        "name":"피오레세로베르 II",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"마비 18",
+        "rare":"3"
+    },
+    {
+        "name":"마가포창[봉] I",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"폭파 25",
+        "rare":"3"
+    },
+    {
+        "name":"마가포창[봉] II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"폭파 29",
+        "rare":"3"
+    },
+    {
+        "name":"가루캐논 I",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"방어+5",
+        "rare":"3"
+    },
+    {
+        "name":"가루캐논 II",
+        "attack":"140",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3방사형 Lv3",
+        "option":"방어+5",
+        "rare":"3"
+    },
+    {
+        "name":"졸음이오는조개총창 II",
+        "attack":"130",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"수면 17방어+15",
+        "rare":"3"
+    },
+    {
+        "name":"수호단철벽총창",
+        "attack":"150",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"3방사형 Lv3",
+        "option":"방어+30",
+        "rare":"2"
+    },
+    {
+        "name":"카무라철총창 III",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"프린세스버스트 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"독 18",
+        "rare":"2"
+    },
+    {
+        "name":"델크하프너 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1확산형 Lv1",
+        "option":"물 12",
+        "rare":"2"
+    },
+    {
+        "name":"델크하프너 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"물 14",
+        "rare":"2"
+    },
+    {
+        "name":"듀얼투스 I",
+        "attack":"80",
+        "critical":"30",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"얼음 22",
+        "rare":"2"
+    },
+    {
+        "name":"아이젠리터",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"시름스개링 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"불 20",
+        "rare":"2"
+    },
+    {
+        "name":"시름스개링 II",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"불 23",
+        "rare":"2"
+    },
+    {
+        "name":"푸루볼티지 I",
+        "attack":"100",
+        "critical":"10",
+        "slot":"- - -",
+        "etc":"1방사형 Lv1",
+        "option":"번개 13",
+        "rare":"2"
+    },
+    {
+        "name":"브레이크샷 I",
+        "attack":"100",
+        "critical":"-10",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"마비 24",
+        "rare":"2"
+    },
+    {
+        "name":"바기건랜스 II",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"수면 22",
+        "rare":"2"
+    },
+    {
+        "name":"비뢰총창테츠카가치 I",
+        "attack":"100",
+        "critical":"15",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"번개 19",
+        "rare":"2"
+    },
+    {
+        "name":"용골총창",
+        "attack":"120",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"볼보로더 I",
+        "attack":"130",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"방어+15",
+        "rare":"2"
+    },
+    {
+        "name":"볼보로더 II",
+        "attack":"140",
+        "critical":"-20",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"방어+15",
+        "rare":"2"
+    },
+    {
+        "name":"드로스하푼 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"물 24방어+10",
+        "rare":"2"
+    },
+    {
+        "name":"피오레세로 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"",
+        "rare":"2"
+    },
+    {
+        "name":"피오레세로블랑 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2일반형 Lv2",
+        "option":"얼음 15",
+        "rare":"2"
+    },
+    {
+        "name":"졸음이오는조개총창 I",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2확산형 Lv2",
+        "option":"수면 13방어+15",
+        "rare":"2"
+    },
+    {
+        "name":"수호단방어총창 I",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"2방사형 Lv2",
+        "option":"방어+30",
+        "rare":"1"
+    },
+    {
+        "name":"카무라철총창 I",
+        "attack":"50",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1일반형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"카무라철총창 II",
+        "attack":"60",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1일반형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"아이언건랜스 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1일반형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"아이언건랜스 II",
+        "attack":"100",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1일반형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"바기건랜스 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1방사형 Lv1",
+        "option":"수면 20",
+        "rare":"1"
+    },
+    {
+        "name":"골총창 I",
+        "attack":"90",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1방사형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"골총창 II",
+        "attack":"110",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1방사형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"울크스키 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1확산형 Lv1",
+        "option":"얼음 23",
+        "rare":"1"
+    },
+    {
+        "name":"피오레세로 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1일반형 Lv1",
+        "option":"",
+        "rare":"1"
+    },
+    {
+        "name":"피오레세로베르 I",
+        "attack":"80",
+        "critical":"0",
+        "slot":"- - -",
+        "etc":"1일반형 Lv1",
+        "option":"마비 12",
+        "rare":"1"
+    }
+]
