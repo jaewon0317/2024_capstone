@@ -1,0 +1,320 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        marked.setOptions({
+            breaks: true,  // 줄바꿈 허용
+            gfm: true     // GitHub Flavored Markdown 활성화
+        });
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <title>AI Model Comparison</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 Dark</button>
+    <div class="container">
+            <div class="mode-toggle">
+                <div class="toggle-switch">
+                    <input type="checkbox" id="modeToggle">
+                    <label for="modeToggle">
+                        <span class="toggle-option text active">Text</span>
+                        <span class="toggle-option image">Image</span>
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+            </div>
+        <div class="header">
+            <h1>AI Model Comparison</h1>
+            <div class="subtitle">다양한 모델을 비교해보세요</div>
+        </div>
+        <div class="model-groups">
+            <!-- ChatGPT -->
+            <div class="model-group">
+                <div class="group-title">ChatGPT</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="o1-preview">
+                        <div class="model-name">GPT-o1-preview</div>
+                        <div class="model-description">최고 성능 모델</div>
+                    </div>
+                    <div class="model-option" data-model="o1-mini">
+                        <div class="model-name">GPT-o1-mini</div>
+                        <div class="model-description">코딩, 수학, 과학 분야에 특화된 빠르고 경제적인 추론 모델</div>
+                    </div>
+                    <div class="model-option" data-model="chatgpt-4o-latest">
+                        <div class="model-name">GPT-4o</div>
+                        <div class="model-description">복잡하고 다단계 작업을 위한 범용적 지능형 모델</div>
+                    </div>
+                    <div class="model-option" data-model="gpt-4o-mini">
+                        <div class="model-name">GPT-4o Mini</div>
+                        <div class="model-description">빠르고 가벼운 작업을 위한 경제적이고 지능적인 소형 모델</div>
+                    </div>
+                    <div class="model-option" data-model="gpt-4-turbo">
+                        <div class="model-name">GPT-4 Turbo</div>
+                        <div class="model-description">이전 세대의 고성능 지능형 모델</div>
+                    </div>
+                    <div class="model-option" data-model="gpt-4">
+                        <div class="model-name">GPT-4</div>
+                        <div class="model-description">이전 세대의 고성능 지능형 모델</div>
+                    </div>
+                    <div class="model-option" data-model="gpt-3.5-turbo">
+                        <div class="model-name">GPT-3.5 Turbo</div>
+                        <div class="model-description">간단한 작업을 위한 빠르고 경제적인 모델</div>
+                    </div>
+                </div>
+            </div>
+            <!-- LLaMA 모델 그룹 -->
+            <div class="model-group">
+                <div class="group-title">LLaMA</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="llama3.3-70b">
+                        <div class="model-name">LLaMA 3.3 70B</div>
+                        <div class="model-description">LLaMA 의 가장 최신 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.2-90b-vision">
+                        <div class="model-name">LLaMA 3.2 90B Vision</div>
+                        <div class="model-description"> 90B 고성능 시각 처리 가능 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.2-11b-vision">
+                        <div class="model-name">LLaMA 3.2 11B Vision</div>
+                        <div class="model-description">11B 범용 시각 처리 가능 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.2-3b">
+                        <div class="model-name">LLaMA 3.2 3B</div>
+                        <div class="model-description">3B 경량 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.2-1b">
+                        <div class="model-name">LLaMA 3.2 1B</div>
+                        <div class="model-description">1B 초경량 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.1-405b">
+                        <div class="model-name">LLaMA 3.1 405B</div>
+                        <div class="model-description">대규모 405B 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.1-70b">
+                        <div class="model-name">LLaMA 3.1 70B</div>
+                        <div class="model-description">범용 70B 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3.1-8b">
+                        <div class="model-name">LLaMA 3.1 8B</div>
+                        <div class="model-description">8B 경량 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3-70b">
+                        <div class="model-name">LLaMA 3 70B</div>
+                        <div class="model-description">범용 70B 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama3-8b">
+                        <div class="model-name">LLaMA 3 8B</div>
+                        <div class="model-description">8B 경량 모델</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Claude-->
+            <div class="model-group">
+                <div class="group-title">Claude</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="claude-3-opus-20240229">
+                        <div class="model-name">Claude 3 Opus</div>
+                        <div class="model-description">최고 성능의 모델</div>
+                    </div>
+                    <div class="model-option" data-model="claude-3-sonnet-20240229">
+                        <div class="model-name">Claude 3 Sonnet</div>
+                        <div class="model-description">균형잡힌 성능</div>
+                    </div>
+                    <div class="model-option" data-model="claude-3-haiku-20240307">
+                        <div class="model-name">Claude 3 Haiku</div>
+                        <div class="model-description">빠른 응답 속도</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Gemini -->
+            <div class="model-group">
+                <div class="group-title">Gemini</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="gemini-2.0-flash-exp">
+                        <div class="model-name">gemini 2.0 flash-exp</div>
+                        <div class="model-description">가장 최신 버전</div>
+                    </div>
+                    <div class="model-option" data-model="gemini-1.5-pro">
+                        <div class="model-name">Gemini 1.5 Pro</div>
+                        <div class="model-description">강화된 추론 능력</div>
+                    </div>
+                    <div class="model-option" data-model="gemini-1.5-flash">
+                        <div class="model-name">Gemini 1.5 Flash</div>
+                        <div class="model-description">빠른 응답에 최적화</div>
+                    </div>
+                    <div class="model-option" data-model="gemini-1.0-pro">
+                        <div class="model-name">Gemini 1.0 Pro</div>
+                        <div class="model-description">범용 모델</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mistral -->
+            <div class="model-group">
+                <div class="group-title">Mistral</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="mistral-large-latest">
+                        <div class="model-name">Mistral Large</div>
+                        <div class="model-description">가장 강력한 성능의 대규모 언어 모델</div>
+                    </div>
+                    <div class="model-option" data-model="mistral-small-latest">
+                        <div class="model-name">Mistral Small</div>
+                        <div class="model-description">빠른 응답과 효율성에 최적화된 경량 모델</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Xai -->
+            <div class="model-group">
+                <div class="group-title">Grok</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="grok-2-1212">
+                        <div class="model-name">Grok 2</div>
+                        <div class="model-description">X.AI의 예전 Grok 2 모델</div>
+                    </div>
+                    <div class="model-option" data-model="grok-beta">
+                        <div class="model-name">Grok Beta</div>
+                        <div class="model-description">X.AI의 최신 대화형 AI 모델</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Perplexity AI 모델 그룹 추가 -->
+            <div class="model-group">
+                <div class="group-title">Perplexity</div>
+                <div class="model-selector">
+                    <div class="model-option" data-model="llama-3.1-sonar-huge-128k-online">
+                        <div class="model-name">LLaMA 3.1 Sonar Huge</div>
+                        <div class="model-description">최고 성능의 실시간 검색 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama-3.1-sonar-large-128k-online">
+                        <div class="model-name">LLaMA 3.1 Sonar Large</div>
+                        <div class="model-description">균형잡힌 성능의 검색 모델</div>
+                    </div>
+                    <div class="model-option" data-model="llama-3.1-sonar-small-128k-online">
+                        <div class="model-name">LLaMA 3.1 Sonar Small</div>
+                        <div class="model-description">빠른 응답의 기본 검색 모델</div>
+                    </div>
+                </div>
+            </div>
+            
+
+            <!-- HyperClovaX 모델 그룹 -->
+            <div class="model-group">
+                <div class="group-title">HyperClovaX</div>
+                <div class="model-selector">
+
+                    <div class="model-option" data-model="hcx-003">
+                        <div class="model-name">HCX-003</div>
+                        <div class="model-description">최신 모델</div>
+                    </div>
+                    <div class="model-option" data-model="hcx-dash-001">
+                        <div class="model-name">HCX-DASH-001</div>
+                        <div class="model-description">최신 경량화 모델</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Chat 섹션 -->
+        <div class="chat-section">
+            <div class="input-section">
+                <textarea id="userInput" placeholder="메시지를 입력하세요..."></textarea>
+                <div class="settings">
+                    <div class="setting-item">
+                        <label class="setting-label">
+                            <div class="label-text">
+                                Temperature<span class="info-icon" data-tooltip="Temperature는 AI 응답의 창의성과 다양성을 조절합니다.&#13;&#10;&#13;&#10;• 낮은 값 (0-0.3): 일관되고 예측 가능한 응답&#13;&#10;• 중간 값 (0.3-0.7): 균형잡힌 창의성&#13;&#10;• 높은 값 (0.7-1.0): 더 창의적이고 다양한 응답">ⓘ</span>
+                            </div>
+                            <span class="value-display" id="temperatureValue">0.7</span>
+                        </label>
+                        <input type="range" id="temperatureRange" min="0" max="1" step="0.1" value="0.7">
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-label">
+                            <div class="label-text">
+                                Max Tokens<span class="info-icon" data-tooltip="Max Tokens는 AI가 생성할 수 있는 최대 텍스트 길이입니다.&#13;&#10;&#13;&#10;• 짧은 응답: 50-500 tokens&#13;&#10;• 중간 길이: 500-2000 tokens&#13;&#10;• 긴 응답: 2000-4096 tokens&#13;&#10;&#13;&#10;1 token ≈ 0.75 영단어 또는 1.5-2 한글자 &#13;&#10;
+                                • Mistral,HyperClovaX 는 최대토큰수가 2048로 제한됩니다.">ⓘ</span>
+                            </div>
+                            <span class="value-display" id="maxTokensValue">2048</span>
+                        </label>
+                        <input type="range" id="maxTokensRange" min="50" max="4096" step="2" value="2048">
+                    </div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <button class="button primary" onclick="sendMessage()">비교하기</button>
+                <button class="button secondary" onclick="clearChat()">초기화</button>
+            </div>
+            <div id="loading" class="loading"></div>
+            <div id="response-container" class="responses"></div>
+        </div>
+
+     <!-- DALL-E 섹션 -->
+        <div class="dalle-section" style="display: none; opacity: 0;">
+            <!-- 모델 선택 섹션 -->
+            <div class="model-groups">
+                <div class="model-group">
+                    <div class="group-title">Image Models</div>
+                    <div class="model-selector">
+                        <div class="model-option" data-model="dall-e-3">
+                            <div class="model-name">DALL-E 3</div>
+                            <div class="model-description">최신 버전의 이미지 생성 모델</div>
+                        </div>
+                        <div class="model-option" data-model="dall-e-2">
+                            <div class="model-name">DALL-E 2</div>
+                            <div class="model-description">이미지 생성 모델</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="model-group">
+                    <div class="group-title">Stable Diffusion</div>
+                    <div class="model-selector">
+                        <div class="model-option" data-model="stable-image-ultra">
+                            <div class="model-name">Stable Image Ultra</div>
+                            <div class="model-description">Stable Diffusion 3.5 기반의 최고 품질 모델 (8 크레딧)</div> <!--현재 크레딧 전부 소진-->
+                        </div>
+                        <!-- <div class="model-option" data-model="stable-diffusion-3.5-large">
+                            <div class="model-name">SD 3.5 Large</div>
+                            <div class="model-description">8B 파라미터를 가진 강력한 기본 모델 (6.5 크레딧)</div>
+                        </div>
+                        <div class="model-option" data-model="stable-diffusion-3.5-large-turbo">
+                            <div class="model-name">SD 3.5 Large Turbo</div>
+                            <div class="model-description">SD 3.5 Large의 고속 버전 (4 크레딧)</div>
+                        </div>
+                        <div class="model-option" data-model="stable-diffusion-3.5-medium">
+                            <div class="model-name">SD 3.5 Medium</div>
+                            <div class="model-description">2.5B 파라미터 모델, 균형잡힌 성능 (3.5 크레딧)</div>
+                        </div>
+                        <div class="model-option" data-model="stable-image-core">
+                            <div class="model-name">Stable Image Core</div>
+                            <div class="model-description">기본적인 이미지 생성 기능의 경제적 모델 (2 크레딧)</div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="input-section">
+                <textarea id="dallePrompt" placeholder="이미지에 대한 설명을 입력하세요..."></textarea>
+            </div>
+            
+            <div class="controls">
+                <button class="button primary" onclick="generateImage()">이미지 생성</button>
+                <button class="button secondary" onclick="clearDalleImages()">초기화</button>
+            </div>
+            
+            <div id="dalleLoading" class="loading"></div>
+            <div id="dalleError" class="error-message"></div>
+            <div id="dalle-response-container" class="responses">
+                <!-- 이미지 응답 카드들이 여기에 추가됩니다 -->
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
