@@ -1,4 +1,4 @@
-# 2024_capstone_6조
+# 2024_capstone
 ### 인공지능 출력 비교 api과제
 ![poster](./images/api/api.png)
 ![poster](./images/api/api_ppt1.png)
@@ -13,7 +13,7 @@
 ![poster](./images/api/api_ppt10.png)
 ![poster](./images/api/api_ppt11.png)
 ![poster](./images/api/api_ppt12.png)
-### 원하는 GPTS 만들기 과제
+### GPTS
 ![poster](./images/몬스터헌터/poster.png)
 ![poster](./images/몬스터헌터/001.png)
 ![poster](./images/몬스터헌터/002.png)
